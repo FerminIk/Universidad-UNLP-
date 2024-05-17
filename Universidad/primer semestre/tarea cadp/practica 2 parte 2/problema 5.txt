@@ -1,0 +1,28 @@
+Program ejercicio6;
+
+    function doble(numA:integer; numB:integer): boolean;
+    var 
+        dobleB:boolean;
+    begin
+        if (numB = (numA*2)) then
+            dobleB:=true
+        else
+            dobleB:=false;
+        doble:=dobleB;
+    end;
+var
+    numero:integer;
+    numero2:integer;
+    bool:boolean;
+begin
+    readln(numero);
+    readln(numero2);
+    bool:=doble (numero,numero2);
+    if bool then
+        writeln('el segundo numero puesto es el doble del primero')
+    else
+        writeln('el segundo numero no es el doble del primero');
+    
+
+
+end.

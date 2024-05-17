@@ -1,0 +1,5 @@
+1-sumaSalarios no es una variable (No esta declarada)
+2-leerDatos pasa los parametros al reves
+3-como pase leerDatos como un parametro por valor, no se modifica la variable e imprime basura
+4-maxLegajo no esta inicializado
+5-

@@ -1,0 +1,12 @@
+r0 	($zero)		constante 0 
+r1 	($at)		Reservado para ser usado por  el asembly (assembler Temporary)
+r2-r3 	($v0-$v1)	valores de retorno de la subrutina llamada
+r4-r7	($a0-$a3)	argumentos pasados a la subrutina
+r8-r15	($t0-$t7)	R. temporarios. No son conservados en llamados a subrutinas
+r16-r23	($s0-$s7)	R. Salvados durante  llamados a  subrutinas (Preservado)
+r24-r25	($t8-$t9)	R. temporarios. No son conservados en llamados a subrutinas
+r26-r27	($k0-$k1)	Para uso de Kernel del  Sistema operativo
+r28	($gp)		Global  Pointer - puntero a la zona de memoria estatica del programa (Preservado
+r29	($sp)		Stack Pointer - puntero a  tope de la pila  (preservado)
+r30	($fp)		Frame  Pointer - puntero al marco actual  de la pila (preservado)
+r31	($ra)		Return Address -   Dirreccion de retorno en un llamado a una  subrutina (preservado)

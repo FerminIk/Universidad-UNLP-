@@ -1,0 +1,4 @@
+la linea 16 declara las variables a y b pero nunca fueron declaradas en la variable, asi que no existen
+17 no se puede pasar un numero, se puede pasar una variable con ese numero
+8 puede que sean iguales a y b o hasta que a sea mayor que b, donde se usaria un down to
+20 Ok no esta declarado en ninguna parte, asi que no se puede asignarle un valor

@@ -1,0 +1,13 @@
+package ejercicio1;
+
+public class NodoPila {
+	private ArbolBinario dato;
+	private NodoPila siguiente;
+	
+	public NodoPila(ArbolBinario x) {
+		dato = x;
+		siguiente = null;
+	}
+	
+	
+}

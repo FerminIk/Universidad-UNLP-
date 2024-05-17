@@ -1,0 +1,13 @@
+C:\Users\Mar\Desktop\Rust\facu\src\coverage\debug\deps\quote-dedd8692a6c7b4e2.rmeta: C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\lib.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\ext.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\format.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\ident_fragment.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\to_tokens.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\runtime.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\spanned.rs
+
+C:\Users\Mar\Desktop\Rust\facu\src\coverage\debug\deps\libquote-dedd8692a6c7b4e2.rlib: C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\lib.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\ext.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\format.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\ident_fragment.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\to_tokens.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\runtime.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\spanned.rs
+
+C:\Users\Mar\Desktop\Rust\facu\src\coverage\debug\deps\quote-dedd8692a6c7b4e2.d: C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\lib.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\ext.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\format.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\ident_fragment.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\to_tokens.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\runtime.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\spanned.rs
+
+C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\lib.rs:
+C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\ext.rs:
+C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\format.rs:
+C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\ident_fragment.rs:
+C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\to_tokens.rs:
+C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\runtime.rs:
+C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.26\src\spanned.rs:

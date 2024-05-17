@@ -1,0 +1,14 @@
+regristro: 
+	sucursal: 1 byte 
+	apellido: 26 bytes
+	correoElectronico:41 bytes
+	sueldo: 4 bytes
+	total: 72 bytes de memoria estatica
+
+
+puntero:4 estatica 72 bytes memoria dinamica
+
+1- no
+2- 72 bytes dinamica
+3- la misma
+4- 0 memoria en la dinamica

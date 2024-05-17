@@ -1,0 +1,2 @@
+memoria estatica: 4 bits (puntero)
+memoria dinamica: 4 bits (puntero) + 51 bits (string cadena)

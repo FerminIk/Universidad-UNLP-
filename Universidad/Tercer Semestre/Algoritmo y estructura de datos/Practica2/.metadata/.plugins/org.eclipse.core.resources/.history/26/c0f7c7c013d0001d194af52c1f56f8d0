@@ -1,0 +1,18 @@
+package ejercicio1;
+
+import tp02.ejercicio1.*;
+import java.util.Scanner;
+
+public class TestListaDeEnterosConArreglos {
+
+	public static void main(String[] args) {
+		Scanner s = new Scanner(System.in);
+		ListaDeEnterosConArreglos enteros = new ListaDeEnterosConArreglos();
+		integer numero = new s.nextInt();
+		while s <> 0 {
+			
+		}
+		
+	}
+
+}

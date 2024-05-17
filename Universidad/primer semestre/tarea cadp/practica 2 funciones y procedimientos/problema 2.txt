@@ -1,0 +1,1 @@
+el programa imprime 3 luego vuelve a imprimir 3 y por ultimo 1

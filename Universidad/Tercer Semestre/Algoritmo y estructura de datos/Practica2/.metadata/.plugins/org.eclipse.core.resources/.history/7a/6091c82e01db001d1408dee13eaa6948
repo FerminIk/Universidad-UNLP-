@@ -1,0 +1,35 @@
+package punto4;
+
+import ejercicio1.ArbolBinario;
+
+public class RedBinariaLlena {
+	private ArbolBinario<Integer> raiz;
+
+	public RedBinariaLlena(ArbolBinario<Integer> raiz) {
+		super();
+		this.raiz = raiz;
+	}
+
+	public ArbolBinario<Integer> getRaiz() {
+		return raiz;
+	}
+
+	public void setRaiz(ArbolBinario<Integer> raiz) {
+		this.raiz = raiz;
+	}
+	
+	private int maximoRetardo(ArbolBinario<Integer> a) {
+		int max = a.getDato();
+		if (!a.esVacio()) {
+			int izquierda = ;
+			int derecha =
+		}
+		return max;
+	}
+	
+	public int retardoReenvio() {
+		int aux;
+		aux = maximoRetardo(raiz);
+		return aux;
+	}
+}

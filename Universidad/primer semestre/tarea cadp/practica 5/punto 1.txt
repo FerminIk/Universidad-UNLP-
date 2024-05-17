@@ -1,0 +1,7 @@
+a- la memoria estatica es aquella memoria que al ejecutar el programa ya esta reservada, por que se conoce 
+cuanto ocupara
+b- la memoria dinamica por otra parte, es aquella memoria que se modifica en la ejecuccion del programa
+siendo variable
+c- el puntero es una variable de tipo dinamica
+d-el new reserva una posicion en la memoria dinamica, para el puntero
+e- el dispose libera esa posicion en la memoria

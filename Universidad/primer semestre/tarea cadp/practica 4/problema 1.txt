@@ -1,0 +1,4 @@
+a-Toma los valores de sus posiciones, hasta llegar al 10
+b-en el segundo bloque for, se el anterior, asi que quedaria 1=1 2=3 3=6 4=10 5=15 6=21 7=28 8=36 9=45 10=55
+c-Deberia en el bloque for anterior marcar el indice de 0 a 9 y el rango del vector tambien de 0 a 9
+d- estaria en el valor siguiente al indice el actual, es decir indice 1= pos 2= val 1

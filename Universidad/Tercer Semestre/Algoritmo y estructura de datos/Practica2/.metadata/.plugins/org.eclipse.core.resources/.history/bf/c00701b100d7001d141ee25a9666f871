@@ -1,0 +1,38 @@
+package practica2;
+
+public class ColaGenerica<T> {
+	private NodoGenerico<T> tope;
+	
+	public ColaGenerica() {
+		super();
+		this.tope = null;
+	}
+	
+	public boolean pilaVacia() {
+		return tope == null;
+	}
+	
+	public void insertar(T elemento) {
+		NodoGenerico<T> nuevo;
+		nuevo = new NodoGenerico<T>(elemento);
+		nuevo.setSiguiente(tope);
+		tope = nuevo;
+	}
+	
+	public ArbolBinario topePila() {
+		return tope.getDato();
+	}
+	
+	public void reiniciarPila() {
+		tope = null;
+	}
+	
+	public ArbolBinario descolar() {
+		ArbolBinario aux = null;
+		if (!pilaVacia()) {
+			aux = tope.getDato();
+			tope = tope.getSiguiente();
+		}
+		return aux;
+	}
+}

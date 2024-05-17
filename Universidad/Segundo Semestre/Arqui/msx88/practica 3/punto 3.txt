@@ -1,0 +1,226 @@
+p3--------------a
+hand_dato equ 40h
+hand_estado equ 41h
+
+org 1000h
+msj db "INGENIERIA E INFORMATICA"
+fin db ?
+
+
+org 2000h
+
+in al, hand_estado
+and al, 01111111b
+out hand_estado,al
+
+mov bx, offset msj
+poll: in al, hand_estado
+and al, 1
+jnz poll
+
+mov al,[bx]
+out hand_dato,al
+
+inc bx
+cmp bx,offset fin
+jnz poll
+
+int 0
+
+end
+
+La diferencia es que la señal de Strobe la hace  automaticamente el strobe, mientras que por PIO hay que hacerla manualmente
+b---------------
+Las diferencias principales, son que el handshake tiene automatizado el bit de strobe, asi que no hay que  ir modificandolo manualmente, tambien el handshake tiene la opcion de interrumpir, gracias a esto no tenes que estar esperando a que se termine de imprimir el programa, podes estar ejecutando  algo y cada vez que el hand lo necesite enviara una pequeña interrupcion  para imprimir el caracter
+
+
+c--------------
+dato equ 40h
+estado equ 41h
+eoi equ 20h
+imr equ 21h
+int2 equ 26h
+n_hand equ 10
+
+org 40
+rut_hand dw imprimir
+
+org 3000h
+imprimir: mov al,[bx]
+out dato,al
+
+mov al,eoi
+out eoi,al
+
+inc bx
+cmp bx, offset fin
+jnz final
+mov al,0ffh
+out imr,al
+inc flag
+final: iret
+
+org 1000h
+msj db "Universidad"
+fin db ?
+flag db 0
+
+org 2000h
+
+mov bx, offset msj
+cli
+ mov al, 11111011b
+ out imr,al
+ 
+ mov al,n_hand
+ out int2,al
+ 
+ mov al,10000000b
+ out estado,al
+sti
+
+lazo: cmp flag,0
+jz lazo
+
+in AL, estado
+and AL, 7FH
+out estado, AL
+
+int 0
+
+end
+
+d----------------
+hand_dato equ 40h
+hand_estado equ 41h
+imr equ 21h
+int2 equ 26h
+n_hand equ 10
+
+org 1000h
+car db ?
+db ?
+db ?
+db ?
+db ?
+fin db ?
+
+org 40
+rut_hand dw imprimir
+
+org 3000h
+imprimir: mov bx, offset car
+lazo: in al, hand_estado
+and al,1
+jnz lazo
+mov al,[bx]
+out hand_dato,al
+inc bx
+cmp bx, offset fin
+jnz lazo
+ret
+
+
+org 2000h
+push ax
+push bx
+push cx
+push dx
+cli
+ mov al,11111011b
+ out imr,al
+ 
+ mov al, n_hand
+ out int2, al
+ 
+ in al, hand_estado
+ and al, 01111111b
+ out hand_estado, al
+sti
+mov bx, offset car
+mov al, 1
+leer: int 6
+inc bx
+cmp bx, offset fin
+jnz leer
+jmp imprimir
+pop dx
+pop cx
+pop bx
+pop ax
+int 0
+hlt
+end (como hice unas interrupciones y subrutinas se rompe al volver)
+
+e-----------
+hand_dato equ 40h
+hand_estado equ 41h
+imr equ 21h
+int2 equ 26h
+n_hand equ 10
+eoi equ 20h
+
+org 1000h
+car db ?
+db ?
+fin db ?
+flag db 0
+
+org 40
+rut_hand dw imprimir
+
+org 3000h
+imprimir: mov al,[bx]
+out hand_dato,al
+inc bx
+cmp bx, offset fin
+jnz final
+
+mov al, 0ffh
+out imr,al
+inc flag
+
+final: mov al, eoi
+out eoi,al
+
+
+iret
+
+
+org 2000h
+push ax
+push bx
+push cx
+push dx
+
+mov bx, offset car
+mov al, 1
+leer: int 6
+inc bx
+cmp bx, offset fin
+jnz leer
+
+mov bx, offset car
+
+cli
+ mov al,11111011b
+ out imr,al
+ 
+ mov al, n_hand
+ out int2, al
+ 
+ in al, hand_estado
+ mov al, 10000000b
+ out hand_estado, al
+sti
+
+laz: cmp flag,0
+jz laz
+
+pop dx
+pop cx
+pop bx
+pop ax
+int 0
+hlt
+end

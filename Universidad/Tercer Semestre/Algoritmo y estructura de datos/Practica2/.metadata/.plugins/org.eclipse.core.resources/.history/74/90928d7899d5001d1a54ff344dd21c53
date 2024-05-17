@@ -1,0 +1,18 @@
+import ejercicio1.ArbolBinario;
+
+public class main {
+
+	public static void main(String[] args) {
+		ArbolBinario<Integer> a1 = new ArbolBinario<Integer>(1);
+		ArbolBinario<Integer> a2 = new ArbolBinario<Integer>(2);
+		ArbolBinario<Integer> a3 = new ArbolBinario<Integer>(3);
+		ArbolBinario<Integer> a4 = new ArbolBinario<Integer>(4);
+		ArbolBinario<Integer> a5 = new ArbolBinario<Integer>(5);
+		a2.agregarHijoDerecho(a4);
+		a3.agregarHijoDerecho(a5);
+		a1.agregarHijoIzquierdo(a2);
+		a1.agregarHijoDerecho(a3);
+		System.out.println(a1.contarHojas(0));
+	}
+
+}

@@ -1,0 +1,24 @@
+3-a
+a- Se presentan atasco por dependencia de datos de tipo RAW causado por la instrucción BNEZ R2, loop al
+procesarse en la etapa ID. Esta instrucción necesita del contenido del registro R2 que está siendo utilizado por la
+instrucción DADDI R2,R2,-1 en la etapa EX sin salir aún de esta.
+b.El atasco de tipo Branch Taken Stalls (BTS), ocurre como consecuencia de la ejecución incorrecta de la instrucción
+siguiente a una instrucción condicional. Esto se debe a que la condición a evaluar tarda algunos ciclos en ser
+ejecutada, mientras que durante esos ciclos siguen entrando nuevas instrucciones al pipeline. Luego de evaluada
+la condición si la instrucción posterior a ésta que se ejecutó no es la que debía ser ejecutada, su ejecución se
+trunca y se ejecuta la que está en el lugar de memoria indicada por la etiqueta en la instrucción condicional. 
+c-21 ciclos 12  instrucciones 1.75  CPI
+3-b
+a-Las instrucciones que generan los atascos RAW son:
+la instrucción DSLL R1,R1,1 (ver registro R1 coloreado en gris), que trata de leer el contenido del registro R1,
+mientras que la instrucción LD R1,A(r0) todavía no copio el contenido de la dirección de memoria A en R1 y
+permanece aún en la etapa WB (RAW durante 1 ciclo).
+Y la instrucción BNEZ R2,loop (ver registro R2 coloreado en gris), que trata de leer el contenido del registro R2,
+mientras que DADDI R2,R2,-1 está buscando copiar el resultado de la operación en dicho registro, permaneciendo
+en la etapa MEM y posteriormente en la etapa WB (RAW durante 2 ciclos). 
+b-Con forwarding deshabilitada, Los atascos por Branch Taken Stalls duran 2 ciclos en cada vuelta del lazo loop,
+mientras que con dicha opción habilitada se reducen a 1 ciclo por vuelta de lazo.
+Esta diferencia tiene su causa en la instrucción condicional que es la que está generando los atascos RAW;
+entonces al disminuir la cantidad de RAWs producidos por esta, también disminuyen los ciclos de espera de la
+instrucción siguiente, que además se dejara de ejecutar si la condicional así se lo indica al procesador.
+d-La tabla que se genera es una sucesion de x numero por 2

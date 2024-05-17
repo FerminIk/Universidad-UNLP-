@@ -1,0 +1,34 @@
+package practica2;
+
+public class ColaGenerica<T> {
+	private ListaEnlazadaGenerica<T> tope = null;
+	
+	public ColaGenerica() {
+		tope = new ListaEnlazadaGenerica<T>();
+	}
+	
+	public boolean pilaVacia() {
+		return tope == null;
+	}
+	
+	public void insertar(T elem) {
+		tope.agregarFinal(elem);
+	}
+	
+	public T topePila() {
+		return tope.getDato();
+	}
+	
+	public void reiniciarPila() {
+		tope = null;
+	}
+	
+	public T descolar() {
+		T aux = null;
+		if (!pilaVacia()) {
+			aux = tope.getDato();
+			tope = tope.getSiguiente();
+		}
+		return aux;
+	}
+}

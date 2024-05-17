@@ -1,0 +1,19 @@
+function contar(tem : temperaturas) : integer;
+var
+  i := 1..30;
+  can10 : integer;
+begin
+  can10 := 0;                                 1
+
+  for i := 1 to 10 do                        3*30+2
+    
+    if (tem[i] = 10 and i < 5) then    3
+
+      can10 = can10 + 1                 2
+    else
+      can10 := 1 * i + 4;                   3
+
+  contar := can10;                         1
+end;
+
+                                                      1 + 92 + 30*(3 + 3) + 1 = 274 ut

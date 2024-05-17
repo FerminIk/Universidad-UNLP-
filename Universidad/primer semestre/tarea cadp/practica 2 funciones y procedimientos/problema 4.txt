@@ -1,0 +1,2 @@
+El segundo codigo da error, ya que no hay variables a en el proceso 
+ni en las variables generales, asi que no se le puede invocar

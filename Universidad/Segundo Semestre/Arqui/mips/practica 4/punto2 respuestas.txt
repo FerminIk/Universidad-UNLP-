@@ -1,0 +1,18 @@
+2-a
+a- La tercera  instruccion  es  la que genera los atasco, esto es debido a que el segundo registro no se termino de cargar(con el fowarding tardaria un ciclo 
+de instruccion menos)
+b- el atasco de hay es de tipo raw (read after write) en  el ID de la tercera instruccion
+c- es de 2.200 CPI
+2-b
+a- No se presenta ningun atasco ya que la tercera instruccion avanza hasta la instruccion EX y mientras tanto el registro 2 esta tomando el valor
+b-El color verde en el registro R1 significa que el dato está disponible en etapa MEM para adelantamiento.
+Además, los registros pueden tener color Rojo indicando que el resultado está disponible en EX y puede ser
+adelantado. Si el color es Gris: el valor no está disponible en este ciclo para adelantamiento. 
+c-el cpi es de 1.800
+
+
+
+
+(con fowarding desactivado, el valor se consigue en la etapa de WB. Con fowarding activado es con el primer buffer que esta ubicado luego de la instruccion EX (Hay otro 
+luego de  MEM)
+

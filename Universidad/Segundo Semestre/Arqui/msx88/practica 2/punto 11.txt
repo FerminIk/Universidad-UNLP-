@@ -1,0 +1,35 @@
+```jsx
+pic equ 20h
+Eoi equ 20h
+n_f10 equ 15
+
+org 1000h
+let dw ?
+fin dw ?
+
+org 60
+ip_f10 dw imprimir
+
+org 3000h
+imprimir: mov bx, offset let
+mov  al, 1
+int 7
+mov al,Eoi
+out Eoi, al
+iret
+
+org 2000h
+CLI
+MOV AL, 0FEH
+OUT pic+1, AL 
+mov al, n_f10
+OUT pic+4, AL 
+MOV DX, 0
+STI
+reinicio: mov let, 97
+lazo: inc let
+cmp let, 122
+jz reinicio
+jmp lazo
+end
+```

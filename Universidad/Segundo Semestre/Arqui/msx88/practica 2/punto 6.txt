@@ -1,0 +1,59 @@
+org 1000h
+cero db "cero  "
+db "uno   "
+db "dos   "
+db "tres  "
+db "cuatro"
+db "cinco "
+db "seis  "
+db "siete "
+db "ocho  "
+db "nueve "
+msj db "introduzca un numero: "
+fin db ?
+org 1200h
+num db ?
+
+org 1300h
+es_num:cmp num, 30H
+js salto
+cmp num,40h
+jns salto
+mov cl,00h
+jmp final
+salto: mov cl,0ffh
+final: ret
+
+org 1400h
+buscar: cmp num, 30h
+jz ter
+add bx, 6
+dec num
+jmp buscar
+ter: ret
+
+org 2000h
+mov bx, offset msj
+mov al, offset fin-offset msj
+int  7
+no_cero: mov dl,0
+lazo: mov bx, offset num
+int 6
+call es_num
+cmp cl, 00h
+jnz no_cum
+mov al,6
+mov bx, offset cero
+cmp num, 30h
+jnz sig
+inc dl
+sig: call buscar
+int 7
+cmp dl, 1
+js no_cero
+cmp dl, 2
+jnz lazo
+jmp inte
+no_cum: mov bx, cero
+inte: int 0
+end

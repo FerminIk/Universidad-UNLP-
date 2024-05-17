@@ -1,0 +1,10 @@
+5-a-b Salto retardado tiene  la funcion de ejecutar la siguiente instruccion al salto ya que en  el ID es donde se identifica si  el salto se hace o no, asi que aprovecha esa 
+instruccion para empezar a utilizar la instruccion que le sigue (En este caso un NOP que hace que el programa nunca se atasque)
+c- 
+Sin Delay Slot: 63 ciclos 52 instrucciones 1.2 CPI 7 BT
+
+con delay slot:  63 ciclos 59 instrucciones 1 CPI 0 BT
+d-
+(puse debajo del jump la suma de 8 bytes para desplazarse en la tabla de numero)
+
+  55 ciclos 51 instrucciones 1 CPI (Es igual el CPI) 0 BT

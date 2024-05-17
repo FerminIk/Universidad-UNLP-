@@ -1,0 +1,7 @@
+package punto4;
+
+import ejercicio1.ArbolBinario;
+
+public class RedBinariaLlena {
+	private ArbolBinario<Integer> raiz;
+}

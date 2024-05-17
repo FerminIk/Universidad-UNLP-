@@ -1,0 +1,13 @@
+/**
+ * 
+ */
+/**
+ * @author Mar
+ *
+ */
+
+import ejercicio1.ArbolBinario;
+
+module Practica3 {
+	ArbolBinario<Integer> a = new ArbolBinario<Integer>();
+}

@@ -1,0 +1,14 @@
+package practica2;
+
+public class ColaGenerica {
+	private NodoGenerico<T> tope;
+	
+	public ColaGenerica<T>() {
+		super();
+		this.tope = null;
+	}
+	
+	public boolean pilaVacia() {
+		return tope == null;
+	}
+}

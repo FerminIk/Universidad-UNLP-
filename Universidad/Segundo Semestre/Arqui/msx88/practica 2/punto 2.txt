@@ -1,0 +1,14 @@
+
+ORG 1000H
+min db 01h
+
+ORG 2000H
+ MOV BX, OFFSET min
+ MOV AL, 1
+ lazo: cmp min, 0ffh
+ jz fin
+ int 7
+ inc min
+ jmp lazo
+ fin: int 1
+ END

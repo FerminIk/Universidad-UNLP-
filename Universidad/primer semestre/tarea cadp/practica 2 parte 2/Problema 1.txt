@@ -1,0 +1,5 @@
+1-a- El programa imprime 25 (4+1) (3+2) (+5)
+
+b- el programa imprimiria 10
+
+c- yo creo que el programa no imprimiria nada ya que estas modificando la variable i del for

@@ -1,0 +1,16 @@
+package ejercicio1;
+
+public class PilaArbol {
+	private NodoPila tope;
+
+	public PilaArbol() {
+		super();
+		this.tope = null;
+	}
+
+	public insertar(ArbolBinario elemento) {
+		
+	}
+	
+	
+}

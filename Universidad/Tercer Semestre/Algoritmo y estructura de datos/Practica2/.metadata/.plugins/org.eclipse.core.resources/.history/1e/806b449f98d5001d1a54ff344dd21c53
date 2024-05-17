@@ -1,0 +1,10 @@
+import ejercicio1.ArbolBinario;
+
+public class main {
+
+	public static void main(String[] args) {
+		ArbolBinario<Integer> a = new ArbolBinario<Integer>();
+
+	}
+
+}

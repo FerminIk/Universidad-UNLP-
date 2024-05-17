@@ -1,0 +1,8 @@
+4-a el programa busca en una cadena de numeros un  numero en especifico, en este caso es el 7, si  el numero se encontraba en la cadena, se coloca un 1 en el registro 10 y 
+se termina el programa
+b- El btb es una herramienta  muy util si se va a saltar varias veces a la misma direccion de memoria, ya que solo en  la primera  y en  la ultima va a producir un atasco. Esto
+es debido a que el  BTB guarda la direccion de  memoria donde se salto por ultima vez  en un jump
+c-
+con BTB: 67 ciclos - 43 instrucciones - 1.5  CPI - 16 RAW - 4 Atascos BT
+
+sin BTB: 71 ciclos - 43 instrucciones - 1.6  CPI - 16 RAW - 8 Atascos BT

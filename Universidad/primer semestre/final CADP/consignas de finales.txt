@@ -1,0 +1,57 @@
+--------------------------------------------------------
+Una empresa de telefonía celular desea analizar las ventas de 130 modelos de teléfonos
+
+"durante la última edición del Cybermonday. De cada venta se conoce: código del cliente, 
+ código de teléfono vendido (entre 1 y 130), marca del teléfono y el medio de pago utilizado  
+ (1. Crédito; 2. Débito; 3. Transferencia; 4.Mercado  Pago; 5.Bitcoin; 6. otro)."
+
+"Además, la empresa dispone de una tabla con el valor de venta de cada modelo de teléfono."
+
+    a)Realizar un módulo que retorne la informac ión de las ventas en una estructura de datos adecuada. 
+       La información se ingresa por teclado y debe almacenarse en el orden en que fue leída. 
+       La lectura finaliza cuando se lee el código de cliente 1111,que debe procesarse.
+
+    b)Realizar un módulo que reciba la información cargada en el inciso anterior y retorne:
+       i) Los dos medios de pago que generaron el mayor monto total en ventas
+       ii) Cantidad de ventas de teléfonos marca ""Motorola"" de clientes cuyo código de cliente no termine
+           ni en O ni en dígito 1.
+------------------------------------------------------------
+El comité organizador del campeonato de fútbol Eurocopa 2021 está analizando la información de las
+
+entradas vendidas para sus 51 partidos. Para ello, dispone de una estructura de datos con información
+
+de todas las ventas de entradas. De cada venta se conoce el código de partido (entre 1 y 51), código del
+
+cliente y la cantidad de entradas vendidas. Esta información no se encuentra ordenada por ningún
+
+criterio.
+
+
+
+Realizar un programa que:
+
+
+
+a) Invoque a un módulo que lea la información de los 51 partidos, y la almacene en una estructura de
+    
+datos adecuada. De cada partido se conoce su código (entre 1 y 51), nombre del estadio donde se
+
+    juega, la capacidad máxima del estadio y la hora de inicio. Esta información se ingresa por teclado,
+    
+y se ingresa sin ningún orden en particular.
+
+
+
+b)  Invoque a un módulo que reciba la información de las ventas de entradas y la información de los
+
+     partidos, y retome una lista con los códigos de partidos que ya tienen todas las entradas vendidas.
+----------------------------------------------------------
+{Una distribuidora internacional de bebidas desea procesar la informacion de los pedidos.
+* Para ello, dispone de una estructura de informacion de cada pedido. De cada pedido se conoce:
+* nombre de pais de destino y forma de pago (1:Transferencia, 2:efectivo, 3:tarjeta de credito
+* 4: cheque). Esta estructura se encuentra ordenada por nombre de pais de destino y puede haber
+* mas de un pedido por pais.
+*
+* Se solicita calcuar e informar:
+* -El pais en el cual se debe entregar la mayor cantidad de pedidos.
+* -La cantidad de pedidos para cada forma de pago.}

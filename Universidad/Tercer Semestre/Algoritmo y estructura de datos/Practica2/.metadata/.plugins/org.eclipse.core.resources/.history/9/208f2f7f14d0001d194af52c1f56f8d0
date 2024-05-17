@@ -1,0 +1,24 @@
+package ejercicio1;
+
+import tp02.ejercicio1.*;
+import java.util.Scanner;
+
+public class TestListaDeEnterosConArreglos {
+
+	public static void main(String[] args) {
+		Scanner s = new Scanner(System.in);
+		ListaDeEnterosConArreglos enteros = new ListaDeEnterosConArreglos();
+		System.out.println('Introduzca un numero: ');
+		int numero = s.nextInt();
+		while (numero != 0) {
+			enteros.agregarFinal(numero);
+			System.out.println('Introduzca un numero: ');
+			numero = s.nextInt();
+		}
+		
+		for (int i=0 ;i <= enteros.tamanio();i++) {
+			System.out.println(enteros.elemento(i));
+		}
+	}
+
+}

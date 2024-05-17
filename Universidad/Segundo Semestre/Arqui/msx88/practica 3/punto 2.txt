@@ -1,0 +1,221 @@
+p2-----------a
+PA EQU 30h
+PB EQU 31h
+CA equ 32h
+CB equ 33h
+
+org 1000h
+letra db "a"
+
+org 2000h
+mov al, 11111101b
+out CA,al
+out PA,al
+
+mov al,0
+out CB,al
+
+
+
+mov bx, offset letra
+
+
+poll: in al,PA
+and al, 1
+jnz poll
+mov al,[bx]
+out PB,al
+
+;Mando la señal de strobe  para que imprima el caracter
+in al, PA
+or  al, 2
+out PA,al
+
+;Muevo el strobe otra vez a cero
+in al,PA
+and al, 0fdh
+out PA,al
+jmp poll
+hlt
+end
+
+p2------------b
+PA EQU 30h
+PB EQU 31h
+CA equ 32h
+CB equ 33h
+
+org 1000h
+msj db "ORGANIZACION Y ARQUITECTURA DE COMPUTADORAS"
+fin db ?
+
+org 2000h
+
+ mov al, 0fdh ;Configuramos el PA para que todos sus bits sean entradas menos el Strobe
+ out CA,al
+ 
+ in al,PA ;Como no me imprime el primer valor, inicializo el strobe en 0
+ and al,0fdh
+ out PA,al
+ 
+ mov al,0
+ out CB,al ;Configuramos como salida todos los bits de PB
+ 
+ mov bx,offset msj
+ 
+ poll: in al,PA
+ and al,1
+ jnz poll
+ 
+ mov al,[bx]
+ out PB,al
+ 
+ in al, PA
+ or al, 00000010b
+ out PA,al
+ 
+ in al,PA
+ and al, 0fdh
+ out PA,al
+ 
+ inc bx
+ cmp bx, offset fin
+ jnz poll
+ 
+  int 0
+
+end
+
+p2---------c
+PA EQU 30h
+PB EQU 31h
+CA equ 32h
+CB equ 33h
+
+org 1000h
+car db ?
+ db ?
+ db ?
+ db ?
+ db ?
+msj db "Introduzca 5 caracteres "
+fin db ?
+
+org 2000h
+
+mov bx, offset msj
+mov al, offset fin- offset msj
+int 7
+mov cl,0
+mov bx, offset car
+mov al, 1
+cargar:  int 6
+inc bx
+inc cl
+cmp cl, 5
+jnz cargar
+
+mov al,0fdh
+out PA,al
+out CA,al
+
+mov al,0
+out CB,al
+
+mov cl,0
+mov bx, offset car
+poll: in al, PA
+and al,1
+jnz poll
+
+mov al,[bx]
+out PB,al
+
+in al, PA
+or al,2
+out PA,al
+
+and al, 0fdh
+out PA,al
+
+inc bx
+inc cl
+cmp cl,5
+jnz poll
+
+int 0
+
+end
+
+p2----------d
+PA EQU 30h
+PB EQU 31h
+CA equ 32h
+CB equ 33h
+
+EOI equ 20h
+IMR equ 21h
+INT0 equ 24h
+n_f10 equ 10
+
+org 1000h
+flag db 0
+long db  0
+car db ?
+
+org 40
+dir_f10 dw imprimir
+
+org 3000h
+imprimir: mov cl,0
+mov bx, offset car
+lazo: mov al,[bx]
+out  PB,al
+
+in al,PA
+or al,2
+out PA,al
+
+and al,0fdh
+out PA,al
+
+inc bx
+inc cl
+cmp cl, long
+jnz lazo
+
+inc flag
+
+mov al,EOI
+out EOI,al
+
+iret
+
+org 2000h
+cli
+ mov al,0fdh
+ out CA,al
+ in al, PA
+ 
+ and al,0fdh
+ out PA,al
+ 
+ mov al,0
+ out CB,al
+
+ mov al, 0feh
+ out IMR,al
+ 
+ mov al,n_f10
+ out INT0,al
+sti
+
+mov bx, offset car
+poll: int 6
+inc long
+inc bx
+cmp flag,0
+jz poll
+int 0
+
+end

@@ -1,0 +1,1298 @@
+[
+  {
+    "ejemplares": 2444302634,
+    "libro": {
+      "titulo": "fa",
+      "autor": "7E",
+      "num_pag": 3694710527,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 3383682952,
+    "libro": {
+      "titulo": "ZO",
+      "autor": "ZB",
+      "num_pag": 1344881883,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 2908651342,
+    "libro": {
+      "titulo": "b4",
+      "autor": "TT",
+      "num_pag": 893399470,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 1017898119,
+    "libro": {
+      "titulo": "o9",
+      "autor": "dK",
+      "num_pag": 2403181532,
+      "genero": "Novela"
+    }
+  },
+  {
+    "ejemplares": 3494227432,
+    "libro": {
+      "titulo": "9G",
+      "autor": "iE",
+      "num_pag": 2787559129,
+      "genero": "Tecnico"
+    }
+  },
+  {
+    "ejemplares": 1745553924,
+    "libro": {
+      "titulo": "JO",
+      "autor": "gW",
+      "num_pag": 1009119394,
+      "genero": "Tecnico"
+    }
+  },
+  {
+    "ejemplares": 515970324,
+    "libro": {
+      "titulo": "rH",
+      "autor": "bG",
+      "num_pag": 3641136583,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 3598090785,
+    "libro": {
+      "titulo": "wO",
+      "autor": "mP",
+      "num_pag": 2600157004,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 205466576,
+    "libro": {
+      "titulo": "le",
+      "autor": "IV",
+      "num_pag": 949862298,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 1885822244,
+    "libro": {
+      "titulo": "cV",
+      "autor": "er",
+      "num_pag": 3015479105,
+      "genero": "Novela"
+    }
+  },
+  {
+    "ejemplares": 2302890963,
+    "libro": {
+      "titulo": "WZ",
+      "autor": "ke",
+      "num_pag": 1653340400,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 1001831668,
+    "libro": {
+      "titulo": "hC",
+      "autor": "gS",
+      "num_pag": 2538459728,
+      "genero": "Novela"
+    }
+  },
+  {
+    "ejemplares": 3961749373,
+    "libro": {
+      "titulo": "dx",
+      "autor": "Mn",
+      "num_pag": 1423636090,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 424751161,
+    "libro": {
+      "titulo": "Vi",
+      "autor": "cV",
+      "num_pag": 2593803055,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 2313786795,
+    "libro": {
+      "titulo": "Cm",
+      "autor": "GV",
+      "num_pag": 319267336,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 834398813,
+    "libro": {
+      "titulo": "Fi",
+      "autor": "l7",
+      "num_pag": 3817835326,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 2315710420,
+    "libro": {
+      "titulo": "jW",
+      "autor": "Wy",
+      "num_pag": 2911311869,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 3015876867,
+    "libro": {
+      "titulo": "ct",
+      "autor": "CY",
+      "num_pag": 931667299,
+      "genero": "Novela"
+    }
+  },
+  {
+    "ejemplares": 549531898,
+    "libro": {
+      "titulo": "3u",
+      "autor": "Wn",
+      "num_pag": 2817724847,
+      "genero": "Tecnico"
+    }
+  },
+  {
+    "ejemplares": 3844824054,
+    "libro": {
+      "titulo": "cU",
+      "autor": "Hg",
+      "num_pag": 753489937,
+      "genero": "Novela"
+    }
+  },
+  {
+    "ejemplares": 1832890813,
+    "libro": {
+      "titulo": "wx",
+      "autor": "D1",
+      "num_pag": 1023276472,
+      "genero": "Novela"
+    }
+  },
+  {
+    "ejemplares": 2865073892,
+    "libro": {
+      "titulo": "yk",
+      "autor": "0G",
+      "num_pag": 54306731,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 4238491886,
+    "libro": {
+      "titulo": "wz",
+      "autor": "Fu",
+      "num_pag": 3926878489,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 22593024,
+    "libro": {
+      "titulo": "QT",
+      "autor": "ft",
+      "num_pag": 1666265248,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 3048729417,
+    "libro": {
+      "titulo": "u2",
+      "autor": "yI",
+      "num_pag": 3471674728,
+      "genero": "Tecnico"
+    }
+  },
+  {
+    "ejemplares": 1211499349,
+    "libro": {
+      "titulo": "86",
+      "autor": "G9",
+      "num_pag": 1237974476,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 1138514628,
+    "libro": {
+      "titulo": "NW",
+      "autor": "Ya",
+      "num_pag": 430951376,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 1789463725,
+    "libro": {
+      "titulo": "5I",
+      "autor": "HB",
+      "num_pag": 1538590440,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 408473026,
+    "libro": {
+      "titulo": "DZ",
+      "autor": "i5",
+      "num_pag": 2903303443,
+      "genero": "Novela"
+    }
+  },
+  {
+    "ejemplares": 2960624492,
+    "libro": {
+      "titulo": "IE",
+      "autor": "qR",
+      "num_pag": 1033321684,
+      "genero": "Tecnico"
+    }
+  },
+  {
+    "ejemplares": 2838016773,
+    "libro": {
+      "titulo": "GL",
+      "autor": "Om",
+      "num_pag": 1034713013,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 2692188711,
+    "libro": {
+      "titulo": "SJ",
+      "autor": "Nd",
+      "num_pag": 1795969079,
+      "genero": "Tecnico"
+    }
+  },
+  {
+    "ejemplares": 2814311471,
+    "libro": {
+      "titulo": "N4",
+      "autor": "82",
+      "num_pag": 1689157147,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 1666842540,
+    "libro": {
+      "titulo": "NX",
+      "autor": "RX",
+      "num_pag": 659029891,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 3667806657,
+    "libro": {
+      "titulo": "Ai",
+      "autor": "ih",
+      "num_pag": 694182436,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 439163412,
+    "libro": {
+      "titulo": "9c",
+      "autor": "pR",
+      "num_pag": 3402615700,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 3116311195,
+    "libro": {
+      "titulo": "0z",
+      "autor": "X5",
+      "num_pag": 3847236340,
+      "genero": "Novela"
+    }
+  },
+  {
+    "ejemplares": 3960872653,
+    "libro": {
+      "titulo": "e4",
+      "autor": "ID",
+      "num_pag": 3421746296,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 2290629519,
+    "libro": {
+      "titulo": "Bx",
+      "autor": "UQ",
+      "num_pag": 1589691255,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 2923512859,
+    "libro": {
+      "titulo": "ir",
+      "autor": "F5",
+      "num_pag": 1527783221,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 3166119971,
+    "libro": {
+      "titulo": "k0",
+      "autor": "dY",
+      "num_pag": 3279276017,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 3032226022,
+    "libro": {
+      "titulo": "cW",
+      "autor": "Y3",
+      "num_pag": 1302102879,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 1666866452,
+    "libro": {
+      "titulo": "IR",
+      "autor": "cO",
+      "num_pag": 3791234121,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 4253304169,
+    "libro": {
+      "titulo": "Yu",
+      "autor": "X7",
+      "num_pag": 1184053746,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 2881646446,
+    "libro": {
+      "titulo": "Lp",
+      "autor": "9L",
+      "num_pag": 4197051271,
+      "genero": "Novela"
+    }
+  },
+  {
+    "ejemplares": 1137445872,
+    "libro": {
+      "titulo": "Wt",
+      "autor": "uF",
+      "num_pag": 2645122591,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 1211030194,
+    "libro": {
+      "titulo": "h4",
+      "autor": "y8",
+      "num_pag": 3946363924,
+      "genero": "Novela"
+    }
+  },
+  {
+    "ejemplares": 1660578930,
+    "libro": {
+      "titulo": "55",
+      "autor": "gJ",
+      "num_pag": 121251467,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 2854643923,
+    "libro": {
+      "titulo": "qQ",
+      "autor": "Gj",
+      "num_pag": 4020488233,
+      "genero": "Tecnico"
+    }
+  },
+  {
+    "ejemplares": 1079902022,
+    "libro": {
+      "titulo": "9w",
+      "autor": "eW",
+      "num_pag": 1575659190,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 1607292187,
+    "libro": {
+      "titulo": "sj",
+      "autor": "6O",
+      "num_pag": 2738522988,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 1746308749,
+    "libro": {
+      "titulo": "Jl",
+      "autor": "0K",
+      "num_pag": 3522772810,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 3328986522,
+    "libro": {
+      "titulo": "UF",
+      "autor": "EZ",
+      "num_pag": 3860450533,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 727549120,
+    "libro": {
+      "titulo": "2S",
+      "autor": "qL",
+      "num_pag": 1354060084,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 2365589975,
+    "libro": {
+      "titulo": "o6",
+      "autor": "ZS",
+      "num_pag": 3485750950,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 3701024962,
+    "libro": {
+      "titulo": "b5",
+      "autor": "Kv",
+      "num_pag": 4063152834,
+      "genero": "Novela"
+    }
+  },
+  {
+    "ejemplares": 2442906236,
+    "libro": {
+      "titulo": "FC",
+      "autor": "jI",
+      "num_pag": 845246558,
+      "genero": "Tecnico"
+    }
+  },
+  {
+    "ejemplares": 2153336477,
+    "libro": {
+      "titulo": "Qa",
+      "autor": "8O",
+      "num_pag": 3486712200,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 1017128515,
+    "libro": {
+      "titulo": "EC",
+      "autor": "Kk",
+      "num_pag": 4019095760,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 1635575402,
+    "libro": {
+      "titulo": "Qn",
+      "autor": "kn",
+      "num_pag": 2055108389,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 3917178583,
+    "libro": {
+      "titulo": "Tl",
+      "autor": "vY",
+      "num_pag": 4185661109,
+      "genero": "Tecnico"
+    }
+  },
+  {
+    "ejemplares": 3040721065,
+    "libro": {
+      "titulo": "XJ",
+      "autor": "Ey",
+      "num_pag": 2410923463,
+      "genero": "Tecnico"
+    }
+  },
+  {
+    "ejemplares": 2537472487,
+    "libro": {
+      "titulo": "Dk",
+      "autor": "qe",
+      "num_pag": 4263348616,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 763074025,
+    "libro": {
+      "titulo": "Iu",
+      "autor": "bO",
+      "num_pag": 3619526313,
+      "genero": "Novela"
+    }
+  },
+  {
+    "ejemplares": 3632420045,
+    "libro": {
+      "titulo": "Us",
+      "autor": "eQ",
+      "num_pag": 3220777771,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 3416081852,
+    "libro": {
+      "titulo": "TX",
+      "autor": "1H",
+      "num_pag": 2156515272,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 3051973637,
+    "libro": {
+      "titulo": "Dr",
+      "autor": "Vb",
+      "num_pag": 613958753,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 2473169088,
+    "libro": {
+      "titulo": "vL",
+      "autor": "94",
+      "num_pag": 3276110444,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 662056385,
+    "libro": {
+      "titulo": "lG",
+      "autor": "8w",
+      "num_pag": 734205867,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 2426245337,
+    "libro": {
+      "titulo": "CS",
+      "autor": "xg",
+      "num_pag": 752127636,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 3419477127,
+    "libro": {
+      "titulo": "Tc",
+      "autor": "cQ",
+      "num_pag": 3520879421,
+      "genero": "Tecnico"
+    }
+  },
+  {
+    "ejemplares": 3383506718,
+    "libro": {
+      "titulo": "M1",
+      "autor": "1J",
+      "num_pag": 2721888629,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 3666612286,
+    "libro": {
+      "titulo": "gd",
+      "autor": "ps",
+      "num_pag": 2663098586,
+      "genero": "Novela"
+    }
+  },
+  {
+    "ejemplares": 3083652955,
+    "libro": {
+      "titulo": "gG",
+      "autor": "Vp",
+      "num_pag": 507544675,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 3312129979,
+    "libro": {
+      "titulo": "u4",
+      "autor": "4m",
+      "num_pag": 1690855496,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 3581497995,
+    "libro": {
+      "titulo": "on",
+      "autor": "rX",
+      "num_pag": 3402025326,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 2589014367,
+    "libro": {
+      "titulo": "Py",
+      "autor": "ro",
+      "num_pag": 1810735035,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 2630292664,
+    "libro": {
+      "titulo": "wn",
+      "autor": "5r",
+      "num_pag": 2929038666,
+      "genero": "Tecnico"
+    }
+  },
+  {
+    "ejemplares": 2740221198,
+    "libro": {
+      "titulo": "WN",
+      "autor": "HO",
+      "num_pag": 2820172045,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 1702654700,
+    "libro": {
+      "titulo": "cU",
+      "autor": "go",
+      "num_pag": 3890003772,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 1747884159,
+    "libro": {
+      "titulo": "Pq",
+      "autor": "Mq",
+      "num_pag": 4072127845,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 1922984120,
+    "libro": {
+      "titulo": "fp",
+      "autor": "g4",
+      "num_pag": 1115954333,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 3789155829,
+    "libro": {
+      "titulo": "fB",
+      "autor": "xR",
+      "num_pag": 394187568,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 2142336929,
+    "libro": {
+      "titulo": "Ta",
+      "autor": "p7",
+      "num_pag": 3904630146,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 1632499704,
+    "libro": {
+      "titulo": "ic",
+      "autor": "t3",
+      "num_pag": 1449862649,
+      "genero": "Tecnico"
+    }
+  },
+  {
+    "ejemplares": 900131531,
+    "libro": {
+      "titulo": "of",
+      "autor": "XR",
+      "num_pag": 1625017666,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 3492590630,
+    "libro": {
+      "titulo": "mQ",
+      "autor": "qn",
+      "num_pag": 1032287297,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 2904353970,
+    "libro": {
+      "titulo": "e8",
+      "autor": "xp",
+      "num_pag": 2051864025,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 2351417452,
+    "libro": {
+      "titulo": "gW",
+      "autor": "My",
+      "num_pag": 1677198949,
+      "genero": "Tecnico"
+    }
+  },
+  {
+    "ejemplares": 1512801928,
+    "libro": {
+      "titulo": "rW",
+      "autor": "eR",
+      "num_pag": 37994262,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 3278554619,
+    "libro": {
+      "titulo": "xa",
+      "autor": "cK",
+      "num_pag": 3092731540,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 3632807780,
+    "libro": {
+      "titulo": "Tt",
+      "autor": "Nk",
+      "num_pag": 125525396,
+      "genero": "Tecnico"
+    }
+  },
+  {
+    "ejemplares": 643434027,
+    "libro": {
+      "titulo": "vd",
+      "autor": "ai",
+      "num_pag": 2637851860,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 1673272346,
+    "libro": {
+      "titulo": "Gt",
+      "autor": "Uu",
+      "num_pag": 2678768485,
+      "genero": "Novela"
+    }
+  },
+  {
+    "ejemplares": 3568697234,
+    "libro": {
+      "titulo": "eo",
+      "autor": "Ij",
+      "num_pag": 2238301858,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 3329429427,
+    "libro": {
+      "titulo": "Eb",
+      "autor": "im",
+      "num_pag": 3414787418,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 314862588,
+    "libro": {
+      "titulo": "nI",
+      "autor": "7v",
+      "num_pag": 1499153163,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 2066792541,
+    "libro": {
+      "titulo": "BP",
+      "autor": "9y",
+      "num_pag": 2991607090,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 2511729037,
+    "libro": {
+      "titulo": "e0",
+      "autor": "P5",
+      "num_pag": 2156496074,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 863786290,
+    "libro": {
+      "titulo": "1t",
+      "autor": "ph",
+      "num_pag": 2466986741,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 516369609,
+    "libro": {
+      "titulo": "jM",
+      "autor": "GZ",
+      "num_pag": 118409750,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 3216969552,
+    "libro": {
+      "titulo": "aQ",
+      "autor": "dB",
+      "num_pag": 1842537669,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 2822462511,
+    "libro": {
+      "titulo": "5x",
+      "autor": "ml",
+      "num_pag": 2634960028,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 1393853442,
+    "libro": {
+      "titulo": "XB",
+      "autor": "4U",
+      "num_pag": 2893423781,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 2920427543,
+    "libro": {
+      "titulo": "G1",
+      "autor": "YO",
+      "num_pag": 3059508528,
+      "genero": "Tecnico"
+    }
+  },
+  {
+    "ejemplares": 1303573225,
+    "libro": {
+      "titulo": "os",
+      "autor": "UL",
+      "num_pag": 1612091738,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 580880986,
+    "libro": {
+      "titulo": "7y",
+      "autor": "xw",
+      "num_pag": 2293379448,
+      "genero": "Novela"
+    }
+  },
+  {
+    "ejemplares": 2380925241,
+    "libro": {
+      "titulo": "7l",
+      "autor": "ye",
+      "num_pag": 3214213847,
+      "genero": "Novela"
+    }
+  },
+  {
+    "ejemplares": 632431245,
+    "libro": {
+      "titulo": "OV",
+      "autor": "iF",
+      "num_pag": 384536528,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 1748892737,
+    "libro": {
+      "titulo": "i6",
+      "autor": "Sk",
+      "num_pag": 3839673725,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 2007672354,
+    "libro": {
+      "titulo": "xE",
+      "autor": "Ga",
+      "num_pag": 3615617983,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 4177302940,
+    "libro": {
+      "titulo": "V0",
+      "autor": "Gg",
+      "num_pag": 3759345559,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 1704296315,
+    "libro": {
+      "titulo": "Qc",
+      "autor": "Gh",
+      "num_pag": 1028639948,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 504515998,
+    "libro": {
+      "titulo": "Ha",
+      "autor": "ji",
+      "num_pag": 110698117,
+      "genero": "Tecnico"
+    }
+  },
+  {
+    "ejemplares": 59697444,
+    "libro": {
+      "titulo": "We",
+      "autor": "FY",
+      "num_pag": 20736862,
+      "genero": "Tecnico"
+    }
+  },
+  {
+    "ejemplares": 4257815474,
+    "libro": {
+      "titulo": "3g",
+      "autor": "zO",
+      "num_pag": 3367909392,
+      "genero": "Novela"
+    }
+  },
+  {
+    "ejemplares": 2842002400,
+    "libro": {
+      "titulo": "as",
+      "autor": "wa",
+      "num_pag": 589515545,
+      "genero": "Novela"
+    }
+  },
+  {
+    "ejemplares": 3831856369,
+    "libro": {
+      "titulo": "vV",
+      "autor": "YQ",
+      "num_pag": 3239472816,
+      "genero": "Tecnico"
+    }
+  },
+  {
+    "ejemplares": 773167465,
+    "libro": {
+      "titulo": "Nd",
+      "autor": "MJ",
+      "num_pag": 4122160886,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 464472704,
+    "libro": {
+      "titulo": "Jm",
+      "autor": "TB",
+      "num_pag": 2583306082,
+      "genero": "Novela"
+    }
+  },
+  {
+    "ejemplares": 2523514322,
+    "libro": {
+      "titulo": "Z5",
+      "autor": "n5",
+      "num_pag": 3222314240,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 2834083433,
+    "libro": {
+      "titulo": "RY",
+      "autor": "Ym",
+      "num_pag": 580803120,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 2727644511,
+    "libro": {
+      "titulo": "pA",
+      "autor": "XC",
+      "num_pag": 3461235130,
+      "genero": "Novela"
+    }
+  },
+  {
+    "ejemplares": 4240376322,
+    "libro": {
+      "titulo": "a6",
+      "autor": "61",
+      "num_pag": 1913911908,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 3140704107,
+    "libro": {
+      "titulo": "uj",
+      "autor": "sM",
+      "num_pag": 490788632,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 776670523,
+    "libro": {
+      "titulo": "vo",
+      "autor": "ft",
+      "num_pag": 1013054318,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 3771582489,
+    "libro": {
+      "titulo": "Wn",
+      "autor": "jX",
+      "num_pag": 1451994962,
+      "genero": "Novela"
+    }
+  },
+  {
+    "ejemplares": 1946304933,
+    "libro": {
+      "titulo": "Wr",
+      "autor": "ca",
+      "num_pag": 1473546014,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 1987640467,
+    "libro": {
+      "titulo": "oG",
+      "autor": "tY",
+      "num_pag": 3769963400,
+      "genero": "Tecnico"
+    }
+  },
+  {
+    "ejemplares": 2688289015,
+    "libro": {
+      "titulo": "yX",
+      "autor": "Zy",
+      "num_pag": 889987872,
+      "genero": "Novela"
+    }
+  },
+  {
+    "ejemplares": 4167440339,
+    "libro": {
+      "titulo": "XV",
+      "autor": "YB",
+      "num_pag": 929765570,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 3301405267,
+    "libro": {
+      "titulo": "3z",
+      "autor": "aP",
+      "num_pag": 1722589708,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 1385544862,
+    "libro": {
+      "titulo": "Op",
+      "autor": "FE",
+      "num_pag": 31659724,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 221529795,
+    "libro": {
+      "titulo": "Wu",
+      "autor": "po",
+      "num_pag": 3258874935,
+      "genero": "Novela"
+    }
+  },
+  {
+    "ejemplares": 3165159182,
+    "libro": {
+      "titulo": "Jo",
+      "autor": "OR",
+      "num_pag": 2498203544,
+      "genero": "Tecnico"
+    }
+  },
+  {
+    "ejemplares": 638222238,
+    "libro": {
+      "titulo": "1K",
+      "autor": "91",
+      "num_pag": 1270939489,
+      "genero": "Tecnico"
+    }
+  },
+  {
+    "ejemplares": 1146400289,
+    "libro": {
+      "titulo": "TY",
+      "autor": "Pt",
+      "num_pag": 2215524172,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 685448751,
+    "libro": {
+      "titulo": "qI",
+      "autor": "1L",
+      "num_pag": 2395958161,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 955841632,
+    "libro": {
+      "titulo": "RI",
+      "autor": "EI",
+      "num_pag": 841331644,
+      "genero": "Novela"
+    }
+  },
+  {
+    "ejemplares": 338993273,
+    "libro": {
+      "titulo": "6N",
+      "autor": "1R",
+      "num_pag": 557468747,
+      "genero": "Novela"
+    }
+  },
+  {
+    "ejemplares": 1129477371,
+    "libro": {
+      "titulo": "6w",
+      "autor": "0q",
+      "num_pag": 4208665922,
+      "genero": "Infantil"
+    }
+  },
+  {
+    "ejemplares": 3431443737,
+    "libro": {
+      "titulo": "Y3",
+      "autor": "jL",
+      "num_pag": 4132726144,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 1936686398,
+    "libro": {
+      "titulo": "WR",
+      "autor": "2u",
+      "num_pag": 1379334214,
+      "genero": "Otros"
+    }
+  },
+  {
+    "ejemplares": 3,
+    "libro": {
+      "titulo": "harry potter",
+      "autor": "Rowling",
+      "num_pag": 200,
+      "genero": "Novela"
+    }
+  }
+]

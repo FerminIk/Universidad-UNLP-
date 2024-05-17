@@ -1,0 +1,18 @@
+Type
+  temperaturas = array[1..30 of real;
+
+function contar (tem : temperaturas) : integer;
+var
+  i : 1..30;
+  can10 : integer;
+begin
+  can10 := 0;                                                1
+
+  for i := 1 to 30 do                                       3*30+2
+
+    if (tem[i] = 10) and (i mod 2 = 0) then     (1 + 1 + 1
+      can10 := can10 + 1;                              2) * 30
+
+  contar := can10;                                        1
+end;
+                                                                     1 + 92 + 150 + 1 = 244 u.t.

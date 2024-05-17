@@ -1,0 +1,6 @@
+dig:= num mod 10;
+num := num DIV 10;
+
+250-35-100
+
+a- Imprime que son 4 pares y 4 impares

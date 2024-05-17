@@ -1,0 +1,67 @@
+package punto3;
+
+import ejercicio1.ArbolBinario;
+import practica2.ColaGenerica;
+import java.util.Scanner;
+
+public class ContadorArbol<T> {
+	private ArbolBinario<T> raiz;
+
+	public ContadorArbol(ArbolBinario<T> raiz) {
+		super();
+		this.raiz = raiz;
+	}
+
+	public ContadorArbol() {
+		super();
+	}
+
+	public ArbolBinario<T> getRaiz() {
+		return raiz;
+	}
+
+	public void setRaiz(ArbolBinario<T> raiz) {
+		this.raiz = raiz;
+	}
+	
+	private ColaGenerica<T> InOrden(ArbolBinario<T> a) {
+		ColaGenerica<T> aux = null;
+		if (!a.esVacio()) {
+			T dato =a.getDato();
+			if (a.tieneHijoIzquierdo()) {
+				aux = InOrden(a.getHijoIzquierdo());
+			}
+			aux.insertar(dato);
+			if (a.tieneHijoDerecho()) {
+				
+			}
+			
+		}
+		return aux;
+	}
+	
+	private ColaGenerica<T> PreOrden(ArbolBinario a) {
+		
+		return null;
+	}
+	
+	public ColaGenerica<T> numerosPares(ArbolBinario a) {
+		System.out.println("1. se ejecuta el metodo en InOrden");
+		System.out.println("2. se ejecuta el metodo en PreOrden");
+		Scanner s = new Scanner(System.in);
+		int num = s.nextInt();
+		if (a.esVacio()) {
+			return null;
+		}else {
+			while (true) {
+				if (num == 1) {
+					return InOrden(raiz);
+				} else if (num == 2) {
+					return PreOrden(raiz);
+				}
+				System.out.println("numero no valido, por favor introducelo nuevamente");
+				num = s.nextInt();
+			}
+		}
+	}
+}

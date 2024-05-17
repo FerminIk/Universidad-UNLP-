@@ -1,0 +1,152 @@
+a--------
+pa equ 30h
+org 2000h
+
+mov al, 0
+out pa+1,al
+out pa+3,al
+mov al, 0C3h
+out pa+1,al
+hlt
+end
+
+b-----------
+pio equ 30h
+
+org 1000h
+msj db "Estaba encendida"
+finMsj db ?
+adv db "Esta apagada"
+finAdv db ?
+
+org 2000h
+mov al, 0ffh
+out pio+2,al
+in al, pio
+and al, 80h
+cmp al, 0
+jz ad
+mov bx, offset msj
+mov al,  offset finMsj-offset msj 
+int 7
+jmp fin
+ad: mov bx, offset adv
+mov al,  offset finAdv - offset adv
+int 7
+fin: hlt
+end
+
+p1-c------------------
+pio equ 30h
+
+org 2000h
+mov al, 0ffh
+out pio+2,al
+mov al,0
+out pio+3,al
+lazo: mov al, 0
+out pio,al
+out pio+1,al
+in al,pio
+out pio+1, al
+jmp lazo
+end
+
+
+p1-d--------------
+pio equ 30h
+timer equ 10h
+num equ 10
+eoi equ 20h
+
+org 40
+ip_num dw rut_num
+
+org 1000h
+cont dw 0
+
+org 1500 
+rut_num: inc cont
+cmp cont, 0ffh
+jnz sigue
+mov cont,0
+sigue: mov al, cont
+out pio+1,al
+mov al, timer+1
+mov al, eoi
+out eoi,al
+mov al,0
+out timer,al
+iret
+
+
+org 2000h
+cli
+mov al, 0fdh
+out eoi+1,al
+mov al, num
+out eoi+5,al
+mov al, 1
+out timer+1, al
+mov al, 0
+out timer, al
+out pio+1,al
+out pio+3,al
+sti
+lazo: jmp lazo
+
+end
+
+
+
+p1-e----------------
+pio equ 30h
+timer equ 10h
+num equ 10
+eoi equ 20h
+
+org 40
+ip_num dw rut_num
+
+org 1000h
+cont dw 0
+bol db 0
+
+org 1500 
+rut_num: mov al, cont
+out pio+1,al
+cmp bol, 0
+jz incre
+cmp cont, 0
+jnz decre
+mov bol,0
+jmp incre
+decre: dec cont
+jmp sigue
+incre: inc cont
+cmp cont, 7
+jnz sigue
+mov bol,1
+sigue: mov al, eoi
+out eoi,al
+mov al,0
+out timer,al
+iret
+
+
+org 2000h
+cli
+mov al, 0fdh
+out eoi+1,al
+mov al, num
+out eoi+5,al
+mov al, 1
+out timer+1, al
+mov al, 0
+out timer, al
+out pio+1,al
+out pio+3,al
+sti
+lazo: jmp lazo
+
+end

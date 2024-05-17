@@ -1,0 +1,1 @@
+D:\facultad\segundo semestre\Arqui\mips\ej6.s

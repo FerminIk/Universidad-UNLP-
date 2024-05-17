@@ -1,0 +1,9 @@
+a- El registro IMR es la mascara que habilita las  funciones de las interrupciones por  hardware,  por defecto estan en 1 todos los bits, cuando una habilitamos una interrupcion se coloca el bit relacionado a la interrupcion que deseamos usar en 0, por ejemplo el bit menos significativo en 0 nos deja utilizar la interrupcion de la  tecla  f10
+El registro ISR nos informa cual interrupcion esta siendo atendida
+El  registro  IRR nos informa cuando una funcion esta queriendo interrumpir el programa, se coloca en 1 para informar que esta pidiendo acceder a la  interrupcion y 0 para cuando se resuelve
+De INT0-INT7 son las celdas de informacion para acceder al vector de interrupciones, el registro INT0 se utiliza para la interrupcion del  f10. por ejemplo si en int0 ponemos el valor 10, este ira al vector de interrupciones a la celda(10x4) 40 y ejecutara la instrucciones que este ahi (puede ser un llamado a subrutina  colocando 3000h)
+EOI segun entiendo, es lo que se  suele  utilizar para  aclarar que una interrupcion termino, ya que vale  lo mismo que el PIC, y se utiliza mandandole su direccion al pic, para terminar la interrupcion
+
+Para acceder es desde el pic (20h) sumandole uno para cada siguiente  celda. pic =20h  IMR=21h  ISR=22h  IRR=23h INT0 =  24h... INT 7 = 31h
+b-  se pueden programar el IMR para habilitar interrupciones y todos los int, para acceder al vector de interrupciones. La operacion OUT funciona accediendo a la direccion apuntada pero por fuera de los registros y memoria, por ejemplo para modificar IMR habilitando la interrupcion de f10 seria OUT pic+1, al (al = 0FEh)
+c- Las instrucciones cli y sti sirven para deshabilitar las instrucciones,  para que no se rompa el programa mientras se programan los valores de pic

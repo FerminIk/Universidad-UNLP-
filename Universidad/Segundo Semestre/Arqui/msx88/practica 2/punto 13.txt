@@ -1,0 +1,59 @@
+```jsx
+TIMER EQU 10H
+imr EQU 21H
+EOI EQU 20H
+N_CLK EQU 10
+
+ORG 40
+clk DW rut
+
+ORG 1000h
+seg DB 30H
+ DB 30H
+ db ":"
+min db 30h
+min2 db 30h
+FIN DB ?
+
+ORG 1100h
+rut: inc seg
+cmp seg, 3ah
+jnz fin
+mov al,30h
+mov seg,al
+inc seg+1
+cmp seg+1,36h
+jnz fin
+mov seg+1,30h
+inc min
+cmp min, 3ah
+jnz fin
+inc min+1
+cmp min+1, 36h
+jnz fin
+mov al, 0
+mov seg,al
+mov seg+1,al
+mov min,al
+mov min+1,al
+fin: mov bx, offset seg
+mov al, offset seg - offset FIN
+int 7
+mov al, 0
+out timer, al
+iret
+
+ORG 2000h
+cli
+ mov al, 0fdh
+ out imr ,al
+ mov al, N_CLK
+ out imr+4,al
+ mov al, 1
+ out TIMER+1,al
+ mov al,0
+ out timer,al
+sti
+lazo: jmp lazo
+end
+```

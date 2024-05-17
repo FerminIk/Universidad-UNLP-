@@ -1,0 +1,39 @@
+Program Ejercicio5;
+type
+  cadena50 = String[50];
+
+  empleado = record
+    ape_nom : cadena50;
+    edad : integer;
+    sueldo : real;
+  end;
+
+  vector = array[1..10] of empleado;
+
+  punt = ^empleado;
+
+var
+  v : vector;                                                      63*10 bytes
+  e : empleado;                                                63         "
+  i : integer;                                                      4           "
+  p : punt;                                                         4           "
+begin
+  
+  for i := 1 to 8 do begin                                   3*8+2
+    read(e.ape_nom, e.edad, e.sueldo);
+    v[i] := e                                                         1*8
+  end;
+
+  for i := 2 to 4 do                                              3*3+2
+    e.sueldo := e.sueldo + (e.sueldo * 0.25);    3*3
+
+end.
+
+                                                                         Estatica :
+                                                                         30 + 63 + 4 + 4 = 701 bytes
+
+                                                                         Dinamica : 0 bytes
+
+                                                                         Tiempo de ejecucion :
+                                                                         26 + 8 + 11 + 9 = 54 ut
+                                                                        

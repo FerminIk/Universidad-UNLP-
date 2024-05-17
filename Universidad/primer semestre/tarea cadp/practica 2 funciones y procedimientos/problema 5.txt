@@ -1,0 +1,1 @@
+El error es que la funcion no esta dandole valor a nada, se debe inicializar una variable con la funcion

@@ -1,0 +1,8542 @@
+[
+  {
+    "libro": {
+      "titulo": "fa",
+      "autor": "7E",
+      "num_pag": 3694710527,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "hcgf",
+      "telefono": "d",
+      "dir_electronica": "rC3aOMUYH9"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "fa",
+      "autor": "7E",
+      "num_pag": 3694710527,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "pz1B",
+      "telefono": "6",
+      "dir_electronica": "PxRer32LYZ"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "fa",
+      "autor": "7E",
+      "num_pag": 3694710527,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "ljbp",
+      "telefono": "q",
+      "dir_electronica": "G4uZBN97H1"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "ZO",
+      "autor": "ZB",
+      "num_pag": 1344881883,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "koqf",
+      "telefono": "p",
+      "dir_electronica": "AaltI1Fz88"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "ZO",
+      "autor": "ZB",
+      "num_pag": 1344881883,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "wvem",
+      "telefono": "C",
+      "dir_electronica": "7fk6W6WNcD"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "ZO",
+      "autor": "ZB",
+      "num_pag": 1344881883,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "b1bA",
+      "telefono": "r",
+      "dir_electronica": "9rhcrtkwT0"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "b4",
+      "autor": "TT",
+      "num_pag": 893399470,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "iiLR",
+      "telefono": "Y",
+      "dir_electronica": "Ax3U8dkd8i"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "b4",
+      "autor": "TT",
+      "num_pag": 893399470,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "Ik4a",
+      "telefono": "q",
+      "dir_electronica": "YZEJoax76s"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "b4",
+      "autor": "TT",
+      "num_pag": 893399470,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "JTv5",
+      "telefono": "H",
+      "dir_electronica": "8Iim2KifF7"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "b4",
+      "autor": "TT",
+      "num_pag": 893399470,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "WFAW",
+      "telefono": "e",
+      "dir_electronica": "nm0erAOuzV"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "o9",
+      "autor": "dK",
+      "num_pag": 2403181532,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "nrfz",
+      "telefono": "y",
+      "dir_electronica": "vTGyuDpj8D"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "o9",
+      "autor": "dK",
+      "num_pag": 2403181532,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "Urn4",
+      "telefono": "i",
+      "dir_electronica": "RaPQHj6oGE"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "o9",
+      "autor": "dK",
+      "num_pag": 2403181532,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "uXfc",
+      "telefono": "E",
+      "dir_electronica": "k1ZNspO5Cc"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "9G",
+      "autor": "iE",
+      "num_pag": 2787559129,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "jFl9",
+      "telefono": "Y",
+      "dir_electronica": "7RZQHlQf6l"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "9G",
+      "autor": "iE",
+      "num_pag": 2787559129,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "lKRz",
+      "telefono": "5",
+      "dir_electronica": "N2zcEUkfZA"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "9G",
+      "autor": "iE",
+      "num_pag": 2787559129,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "NA0Q",
+      "telefono": "r",
+      "dir_electronica": "GfbSc4axmy"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "JO",
+      "autor": "gW",
+      "num_pag": 1009119394,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "hIiH",
+      "telefono": "A",
+      "dir_electronica": "9qM55PBJJB"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "JO",
+      "autor": "gW",
+      "num_pag": 1009119394,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "Sr5I",
+      "telefono": "v",
+      "dir_electronica": "HfC36CXbej"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "JO",
+      "autor": "gW",
+      "num_pag": 1009119394,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "dQVH",
+      "telefono": "Z",
+      "dir_electronica": "ud0rygnm99"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "JO",
+      "autor": "gW",
+      "num_pag": 1009119394,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "dNZW",
+      "telefono": "X",
+      "dir_electronica": "KGbIHC4oI1"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "rH",
+      "autor": "bG",
+      "num_pag": 3641136583,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "3uN2",
+      "telefono": "7",
+      "dir_electronica": "Bwg8qshNOV"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "rH",
+      "autor": "bG",
+      "num_pag": 3641136583,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "HWuM",
+      "telefono": "c",
+      "dir_electronica": "7hQxxjoqrv"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "rH",
+      "autor": "bG",
+      "num_pag": 3641136583,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "Vvjr",
+      "telefono": "4",
+      "dir_electronica": "ElISl4oThp"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "rH",
+      "autor": "bG",
+      "num_pag": 3641136583,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "lZx0",
+      "telefono": "i",
+      "dir_electronica": "WqcHZfjX1u"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "wO",
+      "autor": "mP",
+      "num_pag": 2600157004,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "9tpW",
+      "telefono": "h",
+      "dir_electronica": "psVTiglU2T"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "wO",
+      "autor": "mP",
+      "num_pag": 2600157004,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "YNUf",
+      "telefono": "F",
+      "dir_electronica": "Ho84GwaRde"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "wO",
+      "autor": "mP",
+      "num_pag": 2600157004,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "J0AJ",
+      "telefono": "V",
+      "dir_electronica": "zcdmH8Iq61"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "wO",
+      "autor": "mP",
+      "num_pag": 2600157004,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "P56D",
+      "telefono": "D",
+      "dir_electronica": "zWngzYKmF7"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "le",
+      "autor": "IV",
+      "num_pag": 949862298,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "BMaW",
+      "telefono": "m",
+      "dir_electronica": "flpEJv75le"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "le",
+      "autor": "IV",
+      "num_pag": 949862298,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "YXEI",
+      "telefono": "I",
+      "dir_electronica": "9XUs63ewle"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "cV",
+      "autor": "er",
+      "num_pag": 3015479105,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "VyV0",
+      "telefono": "m",
+      "dir_electronica": "XGdP9FbbXP"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "cV",
+      "autor": "er",
+      "num_pag": 3015479105,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "BarR",
+      "telefono": "5",
+      "dir_electronica": "Ln9D0Er7Do"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "WZ",
+      "autor": "ke",
+      "num_pag": 1653340400,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "emDa",
+      "telefono": "c",
+      "dir_electronica": "HntmyJtFBn"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "WZ",
+      "autor": "ke",
+      "num_pag": 1653340400,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "SFqp",
+      "telefono": "4",
+      "dir_electronica": "ZhcXlJiFDQ"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "hC",
+      "autor": "gS",
+      "num_pag": 2538459728,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "avea",
+      "telefono": "6",
+      "dir_electronica": "uo0PUnAyLQ"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "hC",
+      "autor": "gS",
+      "num_pag": 2538459728,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "OduK",
+      "telefono": "F",
+      "dir_electronica": "EZjsHXMw4t"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "hC",
+      "autor": "gS",
+      "num_pag": 2538459728,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "MUhz",
+      "telefono": "5",
+      "dir_electronica": "BNvQCzaPLV"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "hC",
+      "autor": "gS",
+      "num_pag": 2538459728,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "DMDG",
+      "telefono": "A",
+      "dir_electronica": "L2SAufCP5x"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "dx",
+      "autor": "Mn",
+      "num_pag": 1423636090,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "gsNj",
+      "telefono": "I",
+      "dir_electronica": "AhcQUszhcv"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "dx",
+      "autor": "Mn",
+      "num_pag": 1423636090,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "9L3G",
+      "telefono": "z",
+      "dir_electronica": "Lv3qdOrKvq"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Vi",
+      "autor": "cV",
+      "num_pag": 2593803055,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "K1QS",
+      "telefono": "j",
+      "dir_electronica": "IeOn0gbBEO"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Vi",
+      "autor": "cV",
+      "num_pag": 2593803055,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "zl7j",
+      "telefono": "A",
+      "dir_electronica": "PB6dyqxYLa"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Vi",
+      "autor": "cV",
+      "num_pag": 2593803055,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "o4PX",
+      "telefono": "Q",
+      "dir_electronica": "7SGeOoQ5T2"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Vi",
+      "autor": "cV",
+      "num_pag": 2593803055,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "jGPy",
+      "telefono": "5",
+      "dir_electronica": "Zw17RYSjXh"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Cm",
+      "autor": "GV",
+      "num_pag": 319267336,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "r5ix",
+      "telefono": "I",
+      "dir_electronica": "j1g5tlUImc"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Cm",
+      "autor": "GV",
+      "num_pag": 319267336,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "vcyu",
+      "telefono": "y",
+      "dir_electronica": "f5rQOqCje3"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Cm",
+      "autor": "GV",
+      "num_pag": 319267336,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "18RB",
+      "telefono": "0",
+      "dir_electronica": "aSLIkOsXTK"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Cm",
+      "autor": "GV",
+      "num_pag": 319267336,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "Jb6U",
+      "telefono": "4",
+      "dir_electronica": "IQyWYpOiGG"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Fi",
+      "autor": "l7",
+      "num_pag": 3817835326,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "RZzP",
+      "telefono": "G",
+      "dir_electronica": "TPw9zvsWUi"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Fi",
+      "autor": "l7",
+      "num_pag": 3817835326,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "2rkq",
+      "telefono": "N",
+      "dir_electronica": "Y5Pk4tA9Gv"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Fi",
+      "autor": "l7",
+      "num_pag": 3817835326,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "DXaS",
+      "telefono": "Z",
+      "dir_electronica": "m83ZkvgeVc"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Fi",
+      "autor": "l7",
+      "num_pag": 3817835326,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "xXZT",
+      "telefono": "Q",
+      "dir_electronica": "grq5vDQiHr"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "jW",
+      "autor": "Wy",
+      "num_pag": 2911311869,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "cQet",
+      "telefono": "c",
+      "dir_electronica": "4uivDYu0Wj"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "jW",
+      "autor": "Wy",
+      "num_pag": 2911311869,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "9YFE",
+      "telefono": "a",
+      "dir_electronica": "k9lspYFNo7"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "jW",
+      "autor": "Wy",
+      "num_pag": 2911311869,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "MUwI",
+      "telefono": "A",
+      "dir_electronica": "xzGmIaoBjc"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "ct",
+      "autor": "CY",
+      "num_pag": 931667299,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "TCs6",
+      "telefono": "L",
+      "dir_electronica": "5aSZlEJchH"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "ct",
+      "autor": "CY",
+      "num_pag": 931667299,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "WpXK",
+      "telefono": "n",
+      "dir_electronica": "5deZSZtmgL"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "ct",
+      "autor": "CY",
+      "num_pag": 931667299,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "FCZb",
+      "telefono": "z",
+      "dir_electronica": "YiqqHyHOuf"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "ct",
+      "autor": "CY",
+      "num_pag": 931667299,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "Qm7Q",
+      "telefono": "A",
+      "dir_electronica": "JXjdw0DERv"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "3u",
+      "autor": "Wn",
+      "num_pag": 2817724847,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "xYrN",
+      "telefono": "W",
+      "dir_electronica": "L3dlHcghWJ"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "3u",
+      "autor": "Wn",
+      "num_pag": 2817724847,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "esiQ",
+      "telefono": "l",
+      "dir_electronica": "ux6f9GUhoG"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "3u",
+      "autor": "Wn",
+      "num_pag": 2817724847,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "bblB",
+      "telefono": "V",
+      "dir_electronica": "Fuurv6pyN8"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "3u",
+      "autor": "Wn",
+      "num_pag": 2817724847,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "p17Q",
+      "telefono": "y",
+      "dir_electronica": "ujNbOpxEgM"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "cU",
+      "autor": "Hg",
+      "num_pag": 753489937,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "nRk7",
+      "telefono": "J",
+      "dir_electronica": "ePlxHf7dex"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "cU",
+      "autor": "Hg",
+      "num_pag": 753489937,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "QKAS",
+      "telefono": "T",
+      "dir_electronica": "juGJMnzLfO"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "cU",
+      "autor": "Hg",
+      "num_pag": 753489937,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "yaim",
+      "telefono": "M",
+      "dir_electronica": "6s9LEtWHNG"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "wx",
+      "autor": "D1",
+      "num_pag": 1023276472,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "lgWW",
+      "telefono": "m",
+      "dir_electronica": "FtnbnVY1jo"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "wx",
+      "autor": "D1",
+      "num_pag": 1023276472,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "5L7m",
+      "telefono": "M",
+      "dir_electronica": "YamQLclv9U"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "wx",
+      "autor": "D1",
+      "num_pag": 1023276472,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "hZK2",
+      "telefono": "b",
+      "dir_electronica": "bwTcZHGmLQ"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "wx",
+      "autor": "D1",
+      "num_pag": 1023276472,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "gk9C",
+      "telefono": "V",
+      "dir_electronica": "1qMsJ3FQkL"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "yk",
+      "autor": "0G",
+      "num_pag": 54306731,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "TiTv",
+      "telefono": "6",
+      "dir_electronica": "29SoRjR2Zz"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "yk",
+      "autor": "0G",
+      "num_pag": 54306731,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "dxms",
+      "telefono": "n",
+      "dir_electronica": "MziwoWPqoR"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "wz",
+      "autor": "Fu",
+      "num_pag": 3926878489,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "g3Ra",
+      "telefono": "y",
+      "dir_electronica": "xzrQ3kB5Ts"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "wz",
+      "autor": "Fu",
+      "num_pag": 3926878489,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "cPaO",
+      "telefono": "a",
+      "dir_electronica": "ZohhIEPLqw"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "wz",
+      "autor": "Fu",
+      "num_pag": 3926878489,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "m8QD",
+      "telefono": "O",
+      "dir_electronica": "J9wt8GwtAm"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "wz",
+      "autor": "Fu",
+      "num_pag": 3926878489,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "oOWK",
+      "telefono": "w",
+      "dir_electronica": "G9slY5VRfs"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "QT",
+      "autor": "ft",
+      "num_pag": 1666265248,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "JZSb",
+      "telefono": "m",
+      "dir_electronica": "Y8t5NCr56Q"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "QT",
+      "autor": "ft",
+      "num_pag": 1666265248,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "rSCz",
+      "telefono": "2",
+      "dir_electronica": "sSWFPAiYKz"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "QT",
+      "autor": "ft",
+      "num_pag": 1666265248,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "S8Xi",
+      "telefono": "c",
+      "dir_electronica": "IG0h1IpTwD"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "u2",
+      "autor": "yI",
+      "num_pag": 3471674728,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "UzZx",
+      "telefono": "P",
+      "dir_electronica": "u9JCyZIoE1"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "u2",
+      "autor": "yI",
+      "num_pag": 3471674728,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "BRnx",
+      "telefono": "v",
+      "dir_electronica": "01ZkaBzTyg"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "u2",
+      "autor": "yI",
+      "num_pag": 3471674728,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "jbT0",
+      "telefono": "4",
+      "dir_electronica": "474VpOMFzW"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "u2",
+      "autor": "yI",
+      "num_pag": 3471674728,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "zlSX",
+      "telefono": "5",
+      "dir_electronica": "OEHFKiw3YS"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "86",
+      "autor": "G9",
+      "num_pag": 1237974476,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "4wyx",
+      "telefono": "U",
+      "dir_electronica": "M5Z9aTuRBO"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "86",
+      "autor": "G9",
+      "num_pag": 1237974476,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "RaUw",
+      "telefono": "7",
+      "dir_electronica": "x8LkjAg304"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "86",
+      "autor": "G9",
+      "num_pag": 1237974476,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "Ebfz",
+      "telefono": "8",
+      "dir_electronica": "QjMQ7BmJpd"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "86",
+      "autor": "G9",
+      "num_pag": 1237974476,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "k5Hj",
+      "telefono": "7",
+      "dir_electronica": "4CTOKNvDh5"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "NW",
+      "autor": "Ya",
+      "num_pag": 430951376,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "Y0zp",
+      "telefono": "4",
+      "dir_electronica": "4Gs4gQ9ssk"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "NW",
+      "autor": "Ya",
+      "num_pag": 430951376,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "cVpR",
+      "telefono": "R",
+      "dir_electronica": "YALfHilCvq"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "5I",
+      "autor": "HB",
+      "num_pag": 1538590440,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "sixy",
+      "telefono": "2",
+      "dir_electronica": "xRju0C2j9f"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "5I",
+      "autor": "HB",
+      "num_pag": 1538590440,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "75h3",
+      "telefono": "Y",
+      "dir_electronica": "NYEYRIPYB7"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "DZ",
+      "autor": "i5",
+      "num_pag": 2903303443,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "MmEJ",
+      "telefono": "s",
+      "dir_electronica": "vDbdio0yNS"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "DZ",
+      "autor": "i5",
+      "num_pag": 2903303443,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "hxZT",
+      "telefono": "2",
+      "dir_electronica": "Vig74kZWHd"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "DZ",
+      "autor": "i5",
+      "num_pag": 2903303443,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "YZm2",
+      "telefono": "g",
+      "dir_electronica": "0mDG9Bt4Aq"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "IE",
+      "autor": "qR",
+      "num_pag": 1033321684,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "APsB",
+      "telefono": "P",
+      "dir_electronica": "84tEyDcJx2"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "IE",
+      "autor": "qR",
+      "num_pag": 1033321684,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "tOig",
+      "telefono": "X",
+      "dir_electronica": "I5hG0gGoxT"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "IE",
+      "autor": "qR",
+      "num_pag": 1033321684,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "tsay",
+      "telefono": "X",
+      "dir_electronica": "H50YTCsF09"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "GL",
+      "autor": "Om",
+      "num_pag": 1034713013,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "oNFH",
+      "telefono": "k",
+      "dir_electronica": "8IGCKDzrkJ"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "GL",
+      "autor": "Om",
+      "num_pag": 1034713013,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "IKz1",
+      "telefono": "V",
+      "dir_electronica": "Gw1d28ZXgC"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "GL",
+      "autor": "Om",
+      "num_pag": 1034713013,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "6BRD",
+      "telefono": "u",
+      "dir_electronica": "A20PSrhzoB"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "GL",
+      "autor": "Om",
+      "num_pag": 1034713013,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "Q1GP",
+      "telefono": "N",
+      "dir_electronica": "ZDQmSdOI9j"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "SJ",
+      "autor": "Nd",
+      "num_pag": 1795969079,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "Xpej",
+      "telefono": "4",
+      "dir_electronica": "nW510dHkvW"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "SJ",
+      "autor": "Nd",
+      "num_pag": 1795969079,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "B5Xu",
+      "telefono": "o",
+      "dir_electronica": "WtjHZEzHh4"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "SJ",
+      "autor": "Nd",
+      "num_pag": 1795969079,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "y1fr",
+      "telefono": "7",
+      "dir_electronica": "NKLjDFVNOP"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "N4",
+      "autor": "82",
+      "num_pag": 1689157147,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "PrZG",
+      "telefono": "V",
+      "dir_electronica": "VTIuOrBTWm"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "N4",
+      "autor": "82",
+      "num_pag": 1689157147,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "cPSp",
+      "telefono": "w",
+      "dir_electronica": "TF8QrAGF8H"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "N4",
+      "autor": "82",
+      "num_pag": 1689157147,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "U3Qv",
+      "telefono": "s",
+      "dir_electronica": "mtkRVyAnWG"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "NX",
+      "autor": "RX",
+      "num_pag": 659029891,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "4sM6",
+      "telefono": "a",
+      "dir_electronica": "Xi5kIrOmzm"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "NX",
+      "autor": "RX",
+      "num_pag": 659029891,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "mwUT",
+      "telefono": "y",
+      "dir_electronica": "cckpW3AjBQ"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Ai",
+      "autor": "ih",
+      "num_pag": 694182436,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "1sua",
+      "telefono": "A",
+      "dir_electronica": "HdeMTIkWVC"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Ai",
+      "autor": "ih",
+      "num_pag": 694182436,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "JUPS",
+      "telefono": "H",
+      "dir_electronica": "fKQrrLnMdR"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "9c",
+      "autor": "pR",
+      "num_pag": 3402615700,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "2Bhh",
+      "telefono": "A",
+      "dir_electronica": "dQsAhSjwMa"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "9c",
+      "autor": "pR",
+      "num_pag": 3402615700,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "FSLf",
+      "telefono": "k",
+      "dir_electronica": "IcX1HBWdiF"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "9c",
+      "autor": "pR",
+      "num_pag": 3402615700,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "5X8n",
+      "telefono": "x",
+      "dir_electronica": "gKH2ddZW7I"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "9c",
+      "autor": "pR",
+      "num_pag": 3402615700,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "NwC4",
+      "telefono": "b",
+      "dir_electronica": "lO7AzTz4uo"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "0z",
+      "autor": "X5",
+      "num_pag": 3847236340,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "CEg2",
+      "telefono": "2",
+      "dir_electronica": "vVWScOWhqB"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "0z",
+      "autor": "X5",
+      "num_pag": 3847236340,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "zprM",
+      "telefono": "o",
+      "dir_electronica": "hTKfRzcjaZ"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "0z",
+      "autor": "X5",
+      "num_pag": 3847236340,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "dlk5",
+      "telefono": "2",
+      "dir_electronica": "W5xxXIrJIJ"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "e4",
+      "autor": "ID",
+      "num_pag": 3421746296,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "ruwG",
+      "telefono": "V",
+      "dir_electronica": "pwTkrhV63M"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "e4",
+      "autor": "ID",
+      "num_pag": 3421746296,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "vTea",
+      "telefono": "G",
+      "dir_electronica": "UbfqGdBmxC"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Bx",
+      "autor": "UQ",
+      "num_pag": 1589691255,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "xcL4",
+      "telefono": "f",
+      "dir_electronica": "d7ZFvp3Wxd"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Bx",
+      "autor": "UQ",
+      "num_pag": 1589691255,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "hErD",
+      "telefono": "7",
+      "dir_electronica": "WxIjW6ebke"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Bx",
+      "autor": "UQ",
+      "num_pag": 1589691255,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "TKoe",
+      "telefono": "9",
+      "dir_electronica": "KaQtC1rjGE"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "ir",
+      "autor": "F5",
+      "num_pag": 1527783221,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "8Qej",
+      "telefono": "u",
+      "dir_electronica": "vwZYcqYq8x"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "ir",
+      "autor": "F5",
+      "num_pag": 1527783221,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "VYiu",
+      "telefono": "t",
+      "dir_electronica": "8ap1nzFYta"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "k0",
+      "autor": "dY",
+      "num_pag": 3279276017,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "qSZf",
+      "telefono": "l",
+      "dir_electronica": "vOystolzfw"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "k0",
+      "autor": "dY",
+      "num_pag": 3279276017,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "Egdn",
+      "telefono": "w",
+      "dir_electronica": "2NJ4BglVdW"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "k0",
+      "autor": "dY",
+      "num_pag": 3279276017,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "wSCS",
+      "telefono": "X",
+      "dir_electronica": "cufdLN56kZ"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "cW",
+      "autor": "Y3",
+      "num_pag": 1302102879,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "p2QF",
+      "telefono": "l",
+      "dir_electronica": "NXxLm8RzYd"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "cW",
+      "autor": "Y3",
+      "num_pag": 1302102879,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "dzi1",
+      "telefono": "p",
+      "dir_electronica": "aRhHyEEGoe"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "cW",
+      "autor": "Y3",
+      "num_pag": 1302102879,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "CKZh",
+      "telefono": "A",
+      "dir_electronica": "twtF6aeRVP"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "cW",
+      "autor": "Y3",
+      "num_pag": 1302102879,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "ohft",
+      "telefono": "7",
+      "dir_electronica": "lwNLOHnxL8"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "IR",
+      "autor": "cO",
+      "num_pag": 3791234121,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "ZKDc",
+      "telefono": "E",
+      "dir_electronica": "uVAiFsTaiw"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "IR",
+      "autor": "cO",
+      "num_pag": 3791234121,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "7o5W",
+      "telefono": "R",
+      "dir_electronica": "47kQXZthiU"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Yu",
+      "autor": "X7",
+      "num_pag": 1184053746,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "yFBW",
+      "telefono": "D",
+      "dir_electronica": "kAHWSrIwnc"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Yu",
+      "autor": "X7",
+      "num_pag": 1184053746,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "eD29",
+      "telefono": "J",
+      "dir_electronica": "rH5lqF9lrF"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Yu",
+      "autor": "X7",
+      "num_pag": 1184053746,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "JLmL",
+      "telefono": "D",
+      "dir_electronica": "7YLFTXi1Ck"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Lp",
+      "autor": "9L",
+      "num_pag": 4197051271,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "nfY6",
+      "telefono": "s",
+      "dir_electronica": "inF0Dm9DsC"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Lp",
+      "autor": "9L",
+      "num_pag": 4197051271,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "E1N6",
+      "telefono": "W",
+      "dir_electronica": "lE2AAaI6tP"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Lp",
+      "autor": "9L",
+      "num_pag": 4197051271,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "dcSy",
+      "telefono": "q",
+      "dir_electronica": "GCWZC0Js3b"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Lp",
+      "autor": "9L",
+      "num_pag": 4197051271,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "DHOG",
+      "telefono": "M",
+      "dir_electronica": "dswcJmRAh2"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Wt",
+      "autor": "uF",
+      "num_pag": 2645122591,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "wab0",
+      "telefono": "L",
+      "dir_electronica": "IMuSuekGoI"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Wt",
+      "autor": "uF",
+      "num_pag": 2645122591,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "KsVE",
+      "telefono": "l",
+      "dir_electronica": "5VwNTppuZl"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Wt",
+      "autor": "uF",
+      "num_pag": 2645122591,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "knbJ",
+      "telefono": "i",
+      "dir_electronica": "BamKpgTdxV"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "h4",
+      "autor": "y8",
+      "num_pag": 3946363924,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "j5Yf",
+      "telefono": "j",
+      "dir_electronica": "S6Ul5PwJMC"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "h4",
+      "autor": "y8",
+      "num_pag": 3946363924,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "hQkj",
+      "telefono": "E",
+      "dir_electronica": "v3iGU488Jf"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "h4",
+      "autor": "y8",
+      "num_pag": 3946363924,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "f49M",
+      "telefono": "S",
+      "dir_electronica": "ziEf0ew8WN"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "h4",
+      "autor": "y8",
+      "num_pag": 3946363924,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "oKpm",
+      "telefono": "P",
+      "dir_electronica": "vUo22nNJll"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "55",
+      "autor": "gJ",
+      "num_pag": 121251467,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "whgi",
+      "telefono": "z",
+      "dir_electronica": "inQA4g7Z1u"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "55",
+      "autor": "gJ",
+      "num_pag": 121251467,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "ef7Y",
+      "telefono": "e",
+      "dir_electronica": "hlHUrCzZ2f"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "qQ",
+      "autor": "Gj",
+      "num_pag": 4020488233,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "WTZF",
+      "telefono": "r",
+      "dir_electronica": "uecEUHpiQy"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "qQ",
+      "autor": "Gj",
+      "num_pag": 4020488233,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "FBoS",
+      "telefono": "s",
+      "dir_electronica": "4HQEpgOFsb"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "9w",
+      "autor": "eW",
+      "num_pag": 1575659190,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "IxT2",
+      "telefono": "R",
+      "dir_electronica": "FOkeiuE0OG"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "9w",
+      "autor": "eW",
+      "num_pag": 1575659190,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "REn5",
+      "telefono": "L",
+      "dir_electronica": "l7CmpsmPtT"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "9w",
+      "autor": "eW",
+      "num_pag": 1575659190,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "gOR5",
+      "telefono": "p",
+      "dir_electronica": "Qbd6JGrcNd"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "9w",
+      "autor": "eW",
+      "num_pag": 1575659190,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "hpS8",
+      "telefono": "K",
+      "dir_electronica": "3yWZJPZnqf"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "sj",
+      "autor": "6O",
+      "num_pag": 2738522988,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "TrL2",
+      "telefono": "m",
+      "dir_electronica": "CrLhW8qSkK"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "sj",
+      "autor": "6O",
+      "num_pag": 2738522988,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "q5B1",
+      "telefono": "t",
+      "dir_electronica": "JtMPPyMbZX"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "sj",
+      "autor": "6O",
+      "num_pag": 2738522988,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "TrWm",
+      "telefono": "w",
+      "dir_electronica": "MTZ9a4G8ha"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Jl",
+      "autor": "0K",
+      "num_pag": 3522772810,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "I4fY",
+      "telefono": "A",
+      "dir_electronica": "Umy5YVq0FL"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Jl",
+      "autor": "0K",
+      "num_pag": 3522772810,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "FKod",
+      "telefono": "A",
+      "dir_electronica": "2F8UVtZ0Tg"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Jl",
+      "autor": "0K",
+      "num_pag": 3522772810,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "7W99",
+      "telefono": "Y",
+      "dir_electronica": "DQjDbCaT3r"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "UF",
+      "autor": "EZ",
+      "num_pag": 3860450533,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "P3fx",
+      "telefono": "J",
+      "dir_electronica": "RVvHup76RU"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "UF",
+      "autor": "EZ",
+      "num_pag": 3860450533,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "1zet",
+      "telefono": "1",
+      "dir_electronica": "EmCvwA1jQV"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "2S",
+      "autor": "qL",
+      "num_pag": 1354060084,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "DKUd",
+      "telefono": "c",
+      "dir_electronica": "QlyCxFwqvD"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "2S",
+      "autor": "qL",
+      "num_pag": 1354060084,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "YssT",
+      "telefono": "q",
+      "dir_electronica": "NUWI7LgNdt"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "2S",
+      "autor": "qL",
+      "num_pag": 1354060084,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "Hamb",
+      "telefono": "d",
+      "dir_electronica": "uv9gA3Tl6m"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "2S",
+      "autor": "qL",
+      "num_pag": 1354060084,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "9KV8",
+      "telefono": "O",
+      "dir_electronica": "0drufRqo0o"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "o6",
+      "autor": "ZS",
+      "num_pag": 3485750950,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "gYp2",
+      "telefono": "L",
+      "dir_electronica": "lClAhP79pR"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "o6",
+      "autor": "ZS",
+      "num_pag": 3485750950,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "FkE8",
+      "telefono": "9",
+      "dir_electronica": "kbM89dalEC"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "b5",
+      "autor": "Kv",
+      "num_pag": 4063152834,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "Jzh5",
+      "telefono": "t",
+      "dir_electronica": "Whe0oeN3kI"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "b5",
+      "autor": "Kv",
+      "num_pag": 4063152834,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "DpKo",
+      "telefono": "6",
+      "dir_electronica": "fBhxHPwr7Y"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "b5",
+      "autor": "Kv",
+      "num_pag": 4063152834,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "exwP",
+      "telefono": "F",
+      "dir_electronica": "iZkIPMO33D"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "FC",
+      "autor": "jI",
+      "num_pag": 845246558,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "2cZH",
+      "telefono": "N",
+      "dir_electronica": "WCaFj9NXDH"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "FC",
+      "autor": "jI",
+      "num_pag": 845246558,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "IRlY",
+      "telefono": "s",
+      "dir_electronica": "BegN5IbrZf"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "FC",
+      "autor": "jI",
+      "num_pag": 845246558,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "R3oq",
+      "telefono": "g",
+      "dir_electronica": "NYT3gyp0x1"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Qa",
+      "autor": "8O",
+      "num_pag": 3486712200,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "ydjl",
+      "telefono": "g",
+      "dir_electronica": "hBJbYBUP1Q"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Qa",
+      "autor": "8O",
+      "num_pag": 3486712200,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "ujUW",
+      "telefono": "X",
+      "dir_electronica": "vk3gJhs55n"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Qa",
+      "autor": "8O",
+      "num_pag": 3486712200,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "xi0y",
+      "telefono": "i",
+      "dir_electronica": "BxUSF0inKI"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "EC",
+      "autor": "Kk",
+      "num_pag": 4019095760,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "AOPu",
+      "telefono": "i",
+      "dir_electronica": "d1hTLLJRmr"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "EC",
+      "autor": "Kk",
+      "num_pag": 4019095760,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "Y1fK",
+      "telefono": "e",
+      "dir_electronica": "gPeRnecFXl"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "EC",
+      "autor": "Kk",
+      "num_pag": 4019095760,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "lYbn",
+      "telefono": "0",
+      "dir_electronica": "DQSf0tzDZK"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "EC",
+      "autor": "Kk",
+      "num_pag": 4019095760,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "AvvB",
+      "telefono": "k",
+      "dir_electronica": "Ry3dpQtu0Z"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Qn",
+      "autor": "kn",
+      "num_pag": 2055108389,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "p8Ju",
+      "telefono": "x",
+      "dir_electronica": "z2Xw7QOH1s"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Qn",
+      "autor": "kn",
+      "num_pag": 2055108389,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "XcNK",
+      "telefono": "O",
+      "dir_electronica": "cBWWRNiew5"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Tl",
+      "autor": "vY",
+      "num_pag": 4185661109,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "tG4z",
+      "telefono": "M",
+      "dir_electronica": "55m8ptASfu"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Tl",
+      "autor": "vY",
+      "num_pag": 4185661109,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "tfvk",
+      "telefono": "P",
+      "dir_electronica": "Qo8MAVrk8U"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Tl",
+      "autor": "vY",
+      "num_pag": 4185661109,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "qXLh",
+      "telefono": "8",
+      "dir_electronica": "jsMt3gqBYf"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Tl",
+      "autor": "vY",
+      "num_pag": 4185661109,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "s7UE",
+      "telefono": "O",
+      "dir_electronica": "AzBczdJuHe"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "XJ",
+      "autor": "Ey",
+      "num_pag": 2410923463,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "lui2",
+      "telefono": "9",
+      "dir_electronica": "Z2pIAUpMUB"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "XJ",
+      "autor": "Ey",
+      "num_pag": 2410923463,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "6Tmi",
+      "telefono": "F",
+      "dir_electronica": "2QTWMj3v8d"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Dk",
+      "autor": "qe",
+      "num_pag": 4263348616,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "DmU9",
+      "telefono": "u",
+      "dir_electronica": "Z0rNZKooex"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Dk",
+      "autor": "qe",
+      "num_pag": 4263348616,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "kECn",
+      "telefono": "t",
+      "dir_electronica": "nD25gxYAaH"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Iu",
+      "autor": "bO",
+      "num_pag": 3619526313,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "DvcO",
+      "telefono": "b",
+      "dir_electronica": "4vDtVmVGyY"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Iu",
+      "autor": "bO",
+      "num_pag": 3619526313,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "bgAD",
+      "telefono": "J",
+      "dir_electronica": "m9aYcdI3Mk"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Iu",
+      "autor": "bO",
+      "num_pag": 3619526313,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "0tZc",
+      "telefono": "H",
+      "dir_electronica": "beAZ15f54Z"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Us",
+      "autor": "eQ",
+      "num_pag": 3220777771,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "pWqj",
+      "telefono": "f",
+      "dir_electronica": "J8Cvzw4cLe"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Us",
+      "autor": "eQ",
+      "num_pag": 3220777771,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "x9o3",
+      "telefono": "n",
+      "dir_electronica": "qSqYh1iM11"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Us",
+      "autor": "eQ",
+      "num_pag": 3220777771,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "uRaL",
+      "telefono": "Z",
+      "dir_electronica": "B7BgHpufJM"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "TX",
+      "autor": "1H",
+      "num_pag": 2156515272,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "vfq3",
+      "telefono": "s",
+      "dir_electronica": "XujdzLdm0O"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "TX",
+      "autor": "1H",
+      "num_pag": 2156515272,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "cpO6",
+      "telefono": "a",
+      "dir_electronica": "dxCUdiFzJR"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "TX",
+      "autor": "1H",
+      "num_pag": 2156515272,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "SWMq",
+      "telefono": "x",
+      "dir_electronica": "ps9fwUjVB4"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "TX",
+      "autor": "1H",
+      "num_pag": 2156515272,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "6t2f",
+      "telefono": "w",
+      "dir_electronica": "aJTfan5m8K"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Dr",
+      "autor": "Vb",
+      "num_pag": 613958753,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "i4RG",
+      "telefono": "A",
+      "dir_electronica": "zSS9jKruKu"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Dr",
+      "autor": "Vb",
+      "num_pag": 613958753,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "r019",
+      "telefono": "e",
+      "dir_electronica": "Udb5FCCgQR"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "vL",
+      "autor": "94",
+      "num_pag": 3276110444,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "VNPz",
+      "telefono": "S",
+      "dir_electronica": "dpkadEnJe8"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "vL",
+      "autor": "94",
+      "num_pag": 3276110444,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "SmQn",
+      "telefono": "s",
+      "dir_electronica": "lEVJV92TTK"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "vL",
+      "autor": "94",
+      "num_pag": 3276110444,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "Img6",
+      "telefono": "j",
+      "dir_electronica": "2S0LOxFhOY"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "lG",
+      "autor": "8w",
+      "num_pag": 734205867,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "2dAZ",
+      "telefono": "O",
+      "dir_electronica": "8CEQhrA9GD"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "lG",
+      "autor": "8w",
+      "num_pag": 734205867,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "tciM",
+      "telefono": "f",
+      "dir_electronica": "o9p5yy98f3"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "CS",
+      "autor": "xg",
+      "num_pag": 752127636,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "VqTx",
+      "telefono": "d",
+      "dir_electronica": "24af0p4ZlF"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "CS",
+      "autor": "xg",
+      "num_pag": 752127636,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "qVdh",
+      "telefono": "x",
+      "dir_electronica": "T5uztTRDpX"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "CS",
+      "autor": "xg",
+      "num_pag": 752127636,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "9l1G",
+      "telefono": "f",
+      "dir_electronica": "ehHLkaexeC"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Tc",
+      "autor": "cQ",
+      "num_pag": 3520879421,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "YpUe",
+      "telefono": "3",
+      "dir_electronica": "3VX1ZEfZsy"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Tc",
+      "autor": "cQ",
+      "num_pag": 3520879421,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "wLqw",
+      "telefono": "Q",
+      "dir_electronica": "4OFavUsNdr"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Tc",
+      "autor": "cQ",
+      "num_pag": 3520879421,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "N66c",
+      "telefono": "9",
+      "dir_electronica": "PsPbRkjY5g"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Tc",
+      "autor": "cQ",
+      "num_pag": 3520879421,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "vVNo",
+      "telefono": "Z",
+      "dir_electronica": "mHVCU0i8bz"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "M1",
+      "autor": "1J",
+      "num_pag": 2721888629,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "jUKl",
+      "telefono": "g",
+      "dir_electronica": "Rd2sV4CGUQ"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "M1",
+      "autor": "1J",
+      "num_pag": 2721888629,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "uOhW",
+      "telefono": "o",
+      "dir_electronica": "aMtjW77oIj"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "M1",
+      "autor": "1J",
+      "num_pag": 2721888629,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "OVby",
+      "telefono": "V",
+      "dir_electronica": "P9LYBz2s05"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "gd",
+      "autor": "ps",
+      "num_pag": 2663098586,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "XM3p",
+      "telefono": "d",
+      "dir_electronica": "267yL89vlT"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "gd",
+      "autor": "ps",
+      "num_pag": 2663098586,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "KoaB",
+      "telefono": "P",
+      "dir_electronica": "QLwxFzb4jc"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "gd",
+      "autor": "ps",
+      "num_pag": 2663098586,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "WRWV",
+      "telefono": "Q",
+      "dir_electronica": "bp002lInp6"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "gG",
+      "autor": "Vp",
+      "num_pag": 507544675,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "8hPG",
+      "telefono": "H",
+      "dir_electronica": "6NudkerHgh"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "gG",
+      "autor": "Vp",
+      "num_pag": 507544675,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "Ntz6",
+      "telefono": "X",
+      "dir_electronica": "asKnlzum0M"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "gG",
+      "autor": "Vp",
+      "num_pag": 507544675,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "2wx2",
+      "telefono": "g",
+      "dir_electronica": "WBRHTARmwr"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "gG",
+      "autor": "Vp",
+      "num_pag": 507544675,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "YqEa",
+      "telefono": "6",
+      "dir_electronica": "mli0uFxGzr"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "u4",
+      "autor": "4m",
+      "num_pag": 1690855496,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "dzsE",
+      "telefono": "q",
+      "dir_electronica": "U9EZPgQspu"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "u4",
+      "autor": "4m",
+      "num_pag": 1690855496,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "CTdW",
+      "telefono": "m",
+      "dir_electronica": "0CFNyIiONJ"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "u4",
+      "autor": "4m",
+      "num_pag": 1690855496,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "RNYn",
+      "telefono": "Z",
+      "dir_electronica": "0WfOIlv5wQ"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "on",
+      "autor": "rX",
+      "num_pag": 3402025326,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "3DjY",
+      "telefono": "w",
+      "dir_electronica": "R8uLQCvye1"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "on",
+      "autor": "rX",
+      "num_pag": 3402025326,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "IH7n",
+      "telefono": "o",
+      "dir_electronica": "IV0tt8Kwvk"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "on",
+      "autor": "rX",
+      "num_pag": 3402025326,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "p1Kl",
+      "telefono": "a",
+      "dir_electronica": "q54mlussAq"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Py",
+      "autor": "ro",
+      "num_pag": 1810735035,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "3rGm",
+      "telefono": "X",
+      "dir_electronica": "ZROUfjiJtR"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Py",
+      "autor": "ro",
+      "num_pag": 1810735035,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "Mgiv",
+      "telefono": "6",
+      "dir_electronica": "cQUykvu5Wg"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Py",
+      "autor": "ro",
+      "num_pag": 1810735035,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "UCma",
+      "telefono": "q",
+      "dir_electronica": "rqaNRKGdv0"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Py",
+      "autor": "ro",
+      "num_pag": 1810735035,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "6bKG",
+      "telefono": "p",
+      "dir_electronica": "tf2P6UVKG5"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "wn",
+      "autor": "5r",
+      "num_pag": 2929038666,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "UccU",
+      "telefono": "4",
+      "dir_electronica": "saTPR2Erqh"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "wn",
+      "autor": "5r",
+      "num_pag": 2929038666,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "kEih",
+      "telefono": "v",
+      "dir_electronica": "SOwZJVmRDm"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "WN",
+      "autor": "HO",
+      "num_pag": 2820172045,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "ddjf",
+      "telefono": "I",
+      "dir_electronica": "B4IYgD58Gd"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "WN",
+      "autor": "HO",
+      "num_pag": 2820172045,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "FhFp",
+      "telefono": "P",
+      "dir_electronica": "8hiTBUymCj"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "WN",
+      "autor": "HO",
+      "num_pag": 2820172045,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "W4xk",
+      "telefono": "6",
+      "dir_electronica": "qJMfVn0OSA"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "cU",
+      "autor": "go",
+      "num_pag": 3890003772,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "a2A6",
+      "telefono": "H",
+      "dir_electronica": "0mHL58OIWW"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "cU",
+      "autor": "go",
+      "num_pag": 3890003772,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "8k6R",
+      "telefono": "B",
+      "dir_electronica": "OWooN5EO9K"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "cU",
+      "autor": "go",
+      "num_pag": 3890003772,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "9vtt",
+      "telefono": "0",
+      "dir_electronica": "3qMMJGv73Z"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Pq",
+      "autor": "Mq",
+      "num_pag": 4072127845,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "7WRZ",
+      "telefono": "o",
+      "dir_electronica": "kRSmuvO4xX"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Pq",
+      "autor": "Mq",
+      "num_pag": 4072127845,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "lQ4W",
+      "telefono": "Z",
+      "dir_electronica": "4nsxITayge"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Pq",
+      "autor": "Mq",
+      "num_pag": 4072127845,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "1xM0",
+      "telefono": "i",
+      "dir_electronica": "5iGRRGy3EK"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "fp",
+      "autor": "g4",
+      "num_pag": 1115954333,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "COMN",
+      "telefono": "T",
+      "dir_electronica": "kqRnmrChNE"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "fp",
+      "autor": "g4",
+      "num_pag": 1115954333,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "rqpa",
+      "telefono": "G",
+      "dir_electronica": "bLpoEFD1a5"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "fB",
+      "autor": "xR",
+      "num_pag": 394187568,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "apsw",
+      "telefono": "4",
+      "dir_electronica": "JFb5HgbKkh"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "fB",
+      "autor": "xR",
+      "num_pag": 394187568,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "8Z1Q",
+      "telefono": "H",
+      "dir_electronica": "O3FAQdfjc2"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "fB",
+      "autor": "xR",
+      "num_pag": 394187568,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "zpZb",
+      "telefono": "a",
+      "dir_electronica": "QZ56jbEZ10"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Ta",
+      "autor": "p7",
+      "num_pag": 3904630146,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "ChRu",
+      "telefono": "u",
+      "dir_electronica": "ylJKL3WpBa"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Ta",
+      "autor": "p7",
+      "num_pag": 3904630146,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "L7d3",
+      "telefono": "J",
+      "dir_electronica": "VEnTLzy22N"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Ta",
+      "autor": "p7",
+      "num_pag": 3904630146,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "w438",
+      "telefono": "8",
+      "dir_electronica": "vghOM3crw1"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "ic",
+      "autor": "t3",
+      "num_pag": 1449862649,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "hPlZ",
+      "telefono": "9",
+      "dir_electronica": "otER1Ouh3U"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "ic",
+      "autor": "t3",
+      "num_pag": 1449862649,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "QLoT",
+      "telefono": "M",
+      "dir_electronica": "fuvN2IeXtL"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "of",
+      "autor": "XR",
+      "num_pag": 1625017666,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "KLok",
+      "telefono": "p",
+      "dir_electronica": "lNWYAmKING"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "of",
+      "autor": "XR",
+      "num_pag": 1625017666,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "DfHz",
+      "telefono": "l",
+      "dir_electronica": "VpiqZ7EC0S"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "of",
+      "autor": "XR",
+      "num_pag": 1625017666,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "DPyO",
+      "telefono": "s",
+      "dir_electronica": "zg55oUg3R4"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "mQ",
+      "autor": "qn",
+      "num_pag": 1032287297,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "ywwb",
+      "telefono": "V",
+      "dir_electronica": "DmCkU1u9MO"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "mQ",
+      "autor": "qn",
+      "num_pag": 1032287297,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "7zf1",
+      "telefono": "W",
+      "dir_electronica": "VuZ4aCzmVG"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "mQ",
+      "autor": "qn",
+      "num_pag": 1032287297,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "TAkj",
+      "telefono": "9",
+      "dir_electronica": "Jw0mV5VZo0"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "mQ",
+      "autor": "qn",
+      "num_pag": 1032287297,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "JpEZ",
+      "telefono": "3",
+      "dir_electronica": "5Se3DMymCQ"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "e8",
+      "autor": "xp",
+      "num_pag": 2051864025,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "0NPm",
+      "telefono": "R",
+      "dir_electronica": "pSODBP2qw1"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "e8",
+      "autor": "xp",
+      "num_pag": 2051864025,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "8y57",
+      "telefono": "A",
+      "dir_electronica": "AwhRgA3CV3"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "gW",
+      "autor": "My",
+      "num_pag": 1677198949,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "2x8x",
+      "telefono": "O",
+      "dir_electronica": "2fp3qmJtFt"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "gW",
+      "autor": "My",
+      "num_pag": 1677198949,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "n36J",
+      "telefono": "Y",
+      "dir_electronica": "W6x2Id7gLJ"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "rW",
+      "autor": "eR",
+      "num_pag": 37994262,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "GupR",
+      "telefono": "P",
+      "dir_electronica": "iVQmn22pfW"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "rW",
+      "autor": "eR",
+      "num_pag": 37994262,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "pXEN",
+      "telefono": "X",
+      "dir_electronica": "ifGWTsWMx5"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "xa",
+      "autor": "cK",
+      "num_pag": 3092731540,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "uy4m",
+      "telefono": "9",
+      "dir_electronica": "6H24vQoaTb"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "xa",
+      "autor": "cK",
+      "num_pag": 3092731540,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "3bik",
+      "telefono": "f",
+      "dir_electronica": "bo8XEBvvQ4"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Tt",
+      "autor": "Nk",
+      "num_pag": 125525396,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "epOj",
+      "telefono": "9",
+      "dir_electronica": "qAr6J5IvKf"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Tt",
+      "autor": "Nk",
+      "num_pag": 125525396,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "nWhT",
+      "telefono": "U",
+      "dir_electronica": "tqCNI2OY81"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Tt",
+      "autor": "Nk",
+      "num_pag": 125525396,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "pyZu",
+      "telefono": "p",
+      "dir_electronica": "Nv5p8dqh37"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "vd",
+      "autor": "ai",
+      "num_pag": 2637851860,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "BQ0R",
+      "telefono": "F",
+      "dir_electronica": "56WnWhUgoy"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "vd",
+      "autor": "ai",
+      "num_pag": 2637851860,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "FwV2",
+      "telefono": "n",
+      "dir_electronica": "V7nozHBD6p"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "vd",
+      "autor": "ai",
+      "num_pag": 2637851860,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "8PPu",
+      "telefono": "q",
+      "dir_electronica": "29NL4o7rC1"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Gt",
+      "autor": "Uu",
+      "num_pag": 2678768485,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "aCWl",
+      "telefono": "8",
+      "dir_electronica": "LcAqPL0RHz"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Gt",
+      "autor": "Uu",
+      "num_pag": 2678768485,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "AaTl",
+      "telefono": "b",
+      "dir_electronica": "1fPlhB8Esj"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Gt",
+      "autor": "Uu",
+      "num_pag": 2678768485,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "FUC0",
+      "telefono": "5",
+      "dir_electronica": "jcGwQ5HZ8j"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Gt",
+      "autor": "Uu",
+      "num_pag": 2678768485,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "5gfk",
+      "telefono": "m",
+      "dir_electronica": "67Rw4gTJjr"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "eo",
+      "autor": "Ij",
+      "num_pag": 2238301858,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "6huC",
+      "telefono": "n",
+      "dir_electronica": "uS4HQytCyN"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "eo",
+      "autor": "Ij",
+      "num_pag": 2238301858,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "vu1W",
+      "telefono": "u",
+      "dir_electronica": "hyRhuzil4C"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Eb",
+      "autor": "im",
+      "num_pag": 3414787418,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "hE7z",
+      "telefono": "j",
+      "dir_electronica": "gppnaztc4q"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Eb",
+      "autor": "im",
+      "num_pag": 3414787418,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "5tfc",
+      "telefono": "H",
+      "dir_electronica": "Yxk1UbvVsS"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "nI",
+      "autor": "7v",
+      "num_pag": 1499153163,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "b64N",
+      "telefono": "9",
+      "dir_electronica": "xUpPBIrFQZ"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "nI",
+      "autor": "7v",
+      "num_pag": 1499153163,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "MLt1",
+      "telefono": "k",
+      "dir_electronica": "T5xtzU4XuR"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "nI",
+      "autor": "7v",
+      "num_pag": 1499153163,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "WfpI",
+      "telefono": "m",
+      "dir_electronica": "bD4cHqwXTi"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "BP",
+      "autor": "9y",
+      "num_pag": 2991607090,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "UZZo",
+      "telefono": "Z",
+      "dir_electronica": "ELYKRmg4dn"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "BP",
+      "autor": "9y",
+      "num_pag": 2991607090,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "kPhL",
+      "telefono": "w",
+      "dir_electronica": "y8cO6IwGbF"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "BP",
+      "autor": "9y",
+      "num_pag": 2991607090,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "DrzQ",
+      "telefono": "u",
+      "dir_electronica": "JIXPyOs2Vm"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "BP",
+      "autor": "9y",
+      "num_pag": 2991607090,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "kF3U",
+      "telefono": "p",
+      "dir_electronica": "HVksgfxpIu"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "e0",
+      "autor": "P5",
+      "num_pag": 2156496074,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "dW2d",
+      "telefono": "L",
+      "dir_electronica": "CNineRyTJh"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "e0",
+      "autor": "P5",
+      "num_pag": 2156496074,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "Iqgv",
+      "telefono": "O",
+      "dir_electronica": "3aOiCkcuIc"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "e0",
+      "autor": "P5",
+      "num_pag": 2156496074,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "koK5",
+      "telefono": "2",
+      "dir_electronica": "AOYOK4iFv4"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "e0",
+      "autor": "P5",
+      "num_pag": 2156496074,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "jR2D",
+      "telefono": "E",
+      "dir_electronica": "m9oAdH9TFp"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "1t",
+      "autor": "ph",
+      "num_pag": 2466986741,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "WpXd",
+      "telefono": "Q",
+      "dir_electronica": "vO5lQLt1hG"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "1t",
+      "autor": "ph",
+      "num_pag": 2466986741,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "UDvJ",
+      "telefono": "P",
+      "dir_electronica": "X0VL1URQqD"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "1t",
+      "autor": "ph",
+      "num_pag": 2466986741,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "BKLl",
+      "telefono": "L",
+      "dir_electronica": "m7Sl5FkZNt"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "1t",
+      "autor": "ph",
+      "num_pag": 2466986741,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "qn7d",
+      "telefono": "k",
+      "dir_electronica": "eEDU07NuPo"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "jM",
+      "autor": "GZ",
+      "num_pag": 118409750,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "j15r",
+      "telefono": "Y",
+      "dir_electronica": "lHAnzyFIYX"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "jM",
+      "autor": "GZ",
+      "num_pag": 118409750,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "rVyC",
+      "telefono": "J",
+      "dir_electronica": "VpUlMr3VnO"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "jM",
+      "autor": "GZ",
+      "num_pag": 118409750,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "D0hn",
+      "telefono": "F",
+      "dir_electronica": "KWPFlzHqgt"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "aQ",
+      "autor": "dB",
+      "num_pag": 1842537669,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "jn60",
+      "telefono": "j",
+      "dir_electronica": "ncnkzyVlXS"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "aQ",
+      "autor": "dB",
+      "num_pag": 1842537669,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "wIGO",
+      "telefono": "M",
+      "dir_electronica": "tQneo4k8DY"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "aQ",
+      "autor": "dB",
+      "num_pag": 1842537669,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "04Qf",
+      "telefono": "Z",
+      "dir_electronica": "DDZZnY53ea"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "aQ",
+      "autor": "dB",
+      "num_pag": 1842537669,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "hua8",
+      "telefono": "s",
+      "dir_electronica": "L6sSNPkAms"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "5x",
+      "autor": "ml",
+      "num_pag": 2634960028,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "HcxQ",
+      "telefono": "D",
+      "dir_electronica": "bvDkZP7zQI"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "5x",
+      "autor": "ml",
+      "num_pag": 2634960028,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "2Fhu",
+      "telefono": "1",
+      "dir_electronica": "1Gb6g7zM0z"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "5x",
+      "autor": "ml",
+      "num_pag": 2634960028,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "d3Iy",
+      "telefono": "9",
+      "dir_electronica": "FjGgGoh6Mr"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "XB",
+      "autor": "4U",
+      "num_pag": 2893423781,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "6FoQ",
+      "telefono": "9",
+      "dir_electronica": "1MkG2CF5pG"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "XB",
+      "autor": "4U",
+      "num_pag": 2893423781,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "y2TZ",
+      "telefono": "x",
+      "dir_electronica": "NIOrJgCzYs"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "XB",
+      "autor": "4U",
+      "num_pag": 2893423781,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "RUj6",
+      "telefono": "O",
+      "dir_electronica": "jntBEiQjk6"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "XB",
+      "autor": "4U",
+      "num_pag": 2893423781,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "JpPz",
+      "telefono": "1",
+      "dir_electronica": "WS1aVATpdX"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "G1",
+      "autor": "YO",
+      "num_pag": 3059508528,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "Uy5R",
+      "telefono": "X",
+      "dir_electronica": "rVs0KkwvKf"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "G1",
+      "autor": "YO",
+      "num_pag": 3059508528,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "qMFU",
+      "telefono": "L",
+      "dir_electronica": "Sq0PdxVPod"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "os",
+      "autor": "UL",
+      "num_pag": 1612091738,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "ZphZ",
+      "telefono": "6",
+      "dir_electronica": "DZcvi0U6dd"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "os",
+      "autor": "UL",
+      "num_pag": 1612091738,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "gfKS",
+      "telefono": "d",
+      "dir_electronica": "X0pux4csMH"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "os",
+      "autor": "UL",
+      "num_pag": 1612091738,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "7N7d",
+      "telefono": "N",
+      "dir_electronica": "Of6GBV67AM"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "7y",
+      "autor": "xw",
+      "num_pag": 2293379448,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "alS3",
+      "telefono": "b",
+      "dir_electronica": "3K96qGYQrk"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "7y",
+      "autor": "xw",
+      "num_pag": 2293379448,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "Bs6W",
+      "telefono": "f",
+      "dir_electronica": "ZCPU62P7MR"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "7y",
+      "autor": "xw",
+      "num_pag": 2293379448,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "51Yy",
+      "telefono": "S",
+      "dir_electronica": "vytDXtJZyO"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "7l",
+      "autor": "ye",
+      "num_pag": 3214213847,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "HAPW",
+      "telefono": "5",
+      "dir_electronica": "8Xy2TjoTW3"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "7l",
+      "autor": "ye",
+      "num_pag": 3214213847,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "tdW4",
+      "telefono": "Y",
+      "dir_electronica": "4hbf1MZm5q"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "7l",
+      "autor": "ye",
+      "num_pag": 3214213847,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "xM2e",
+      "telefono": "F",
+      "dir_electronica": "lSqOSumHIJ"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "OV",
+      "autor": "iF",
+      "num_pag": 384536528,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "sQLs",
+      "telefono": "z",
+      "dir_electronica": "F8aU8TXNxh"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "OV",
+      "autor": "iF",
+      "num_pag": 384536528,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "V1X4",
+      "telefono": "F",
+      "dir_electronica": "hRNipGijpW"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "i6",
+      "autor": "Sk",
+      "num_pag": 3839673725,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "eeTI",
+      "telefono": "i",
+      "dir_electronica": "wzoZIkVrWX"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "i6",
+      "autor": "Sk",
+      "num_pag": 3839673725,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "kETG",
+      "telefono": "V",
+      "dir_electronica": "TziJ74lpoJ"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "i6",
+      "autor": "Sk",
+      "num_pag": 3839673725,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "UTIY",
+      "telefono": "T",
+      "dir_electronica": "pF6zz7LF23"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "xE",
+      "autor": "Ga",
+      "num_pag": 3615617983,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "kNvq",
+      "telefono": "k",
+      "dir_electronica": "JiEkBQPBwt"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "xE",
+      "autor": "Ga",
+      "num_pag": 3615617983,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "JVA3",
+      "telefono": "B",
+      "dir_electronica": "fYjzNxiykF"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "V0",
+      "autor": "Gg",
+      "num_pag": 3759345559,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "F5nk",
+      "telefono": "l",
+      "dir_electronica": "YeIrX4BMNG"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "V0",
+      "autor": "Gg",
+      "num_pag": 3759345559,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "msdp",
+      "telefono": "V",
+      "dir_electronica": "LgfB7VM3Q4"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "V0",
+      "autor": "Gg",
+      "num_pag": 3759345559,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "IItJ",
+      "telefono": "3",
+      "dir_electronica": "NaEVyRmabj"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Qc",
+      "autor": "Gh",
+      "num_pag": 1028639948,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "P7eG",
+      "telefono": "e",
+      "dir_electronica": "zM0n8NQDfe"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Qc",
+      "autor": "Gh",
+      "num_pag": 1028639948,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "RRie",
+      "telefono": "5",
+      "dir_electronica": "EfRNiOyM81"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Qc",
+      "autor": "Gh",
+      "num_pag": 1028639948,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "xHAz",
+      "telefono": "w",
+      "dir_electronica": "aHFfilERe2"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Ha",
+      "autor": "ji",
+      "num_pag": 110698117,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "cj4B",
+      "telefono": "5",
+      "dir_electronica": "yIW6vZAiy5"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Ha",
+      "autor": "ji",
+      "num_pag": 110698117,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "qeW2",
+      "telefono": "q",
+      "dir_electronica": "hXpy0xCLEk"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Ha",
+      "autor": "ji",
+      "num_pag": 110698117,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "ASmg",
+      "telefono": "C",
+      "dir_electronica": "c7X5haxT3r"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Ha",
+      "autor": "ji",
+      "num_pag": 110698117,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "NL9i",
+      "telefono": "9",
+      "dir_electronica": "L8LBhRKoYb"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "We",
+      "autor": "FY",
+      "num_pag": 20736862,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "zFMc",
+      "telefono": "b",
+      "dir_electronica": "ML0eT4k6QL"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "We",
+      "autor": "FY",
+      "num_pag": 20736862,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "6Bgs",
+      "telefono": "Q",
+      "dir_electronica": "lHpLunN5de"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "We",
+      "autor": "FY",
+      "num_pag": 20736862,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "EF3z",
+      "telefono": "f",
+      "dir_electronica": "f6S8AtOGNa"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "3g",
+      "autor": "zO",
+      "num_pag": 3367909392,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "Xy5i",
+      "telefono": "b",
+      "dir_electronica": "Fo9shjJbNf"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "3g",
+      "autor": "zO",
+      "num_pag": 3367909392,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "yz8R",
+      "telefono": "q",
+      "dir_electronica": "m2yB2mhOcb"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "as",
+      "autor": "wa",
+      "num_pag": 589515545,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "srBT",
+      "telefono": "H",
+      "dir_electronica": "SgO9tcjXVm"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "as",
+      "autor": "wa",
+      "num_pag": 589515545,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "K4uw",
+      "telefono": "0",
+      "dir_electronica": "E4kgMuH05I"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "vV",
+      "autor": "YQ",
+      "num_pag": 3239472816,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "GoNj",
+      "telefono": "j",
+      "dir_electronica": "S8s4eetM5Z"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "vV",
+      "autor": "YQ",
+      "num_pag": 3239472816,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "nCFI",
+      "telefono": "i",
+      "dir_electronica": "H6mj8cqd6d"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Nd",
+      "autor": "MJ",
+      "num_pag": 4122160886,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "mL5t",
+      "telefono": "W",
+      "dir_electronica": "5Xuzx2uW1S"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Nd",
+      "autor": "MJ",
+      "num_pag": 4122160886,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "TfXJ",
+      "telefono": "T",
+      "dir_electronica": "nuuo3O3cGT"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Jm",
+      "autor": "TB",
+      "num_pag": 2583306082,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "NUnC",
+      "telefono": "R",
+      "dir_electronica": "wRTLedFRGx"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Jm",
+      "autor": "TB",
+      "num_pag": 2583306082,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "xHHt",
+      "telefono": "B",
+      "dir_electronica": "63YIcieia0"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Jm",
+      "autor": "TB",
+      "num_pag": 2583306082,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "T8te",
+      "telefono": "u",
+      "dir_electronica": "uBwmA9gUpH"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Z5",
+      "autor": "n5",
+      "num_pag": 3222314240,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "18OI",
+      "telefono": "T",
+      "dir_electronica": "toq5DyawSX"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Z5",
+      "autor": "n5",
+      "num_pag": 3222314240,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "8DoR",
+      "telefono": "f",
+      "dir_electronica": "6bcKXQpq5R"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "RY",
+      "autor": "Ym",
+      "num_pag": 580803120,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "5ZO6",
+      "telefono": "8",
+      "dir_electronica": "wqcNBtiwOd"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "RY",
+      "autor": "Ym",
+      "num_pag": 580803120,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "2krJ",
+      "telefono": "U",
+      "dir_electronica": "hQaiWgCvt1"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "pA",
+      "autor": "XC",
+      "num_pag": 3461235130,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "HJS6",
+      "telefono": "C",
+      "dir_electronica": "ehAjvGiEfR"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "pA",
+      "autor": "XC",
+      "num_pag": 3461235130,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "JJSw",
+      "telefono": "Y",
+      "dir_electronica": "LsZiYzbICd"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "pA",
+      "autor": "XC",
+      "num_pag": 3461235130,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "AviU",
+      "telefono": "g",
+      "dir_electronica": "Y0Q5tjN4Io"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "pA",
+      "autor": "XC",
+      "num_pag": 3461235130,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "2SCM",
+      "telefono": "C",
+      "dir_electronica": "kKWndU2CZU"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "a6",
+      "autor": "61",
+      "num_pag": 1913911908,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "Jy9d",
+      "telefono": "L",
+      "dir_electronica": "UM5OjT3hcS"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "a6",
+      "autor": "61",
+      "num_pag": 1913911908,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "7egt",
+      "telefono": "I",
+      "dir_electronica": "SCrXZ8jtqe"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "uj",
+      "autor": "sM",
+      "num_pag": 490788632,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "Hjb2",
+      "telefono": "1",
+      "dir_electronica": "LJ86E90bpr"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "uj",
+      "autor": "sM",
+      "num_pag": 490788632,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "LRKg",
+      "telefono": "N",
+      "dir_electronica": "m3Q5zH2FI9"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "uj",
+      "autor": "sM",
+      "num_pag": 490788632,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "NOAr",
+      "telefono": "7",
+      "dir_electronica": "wG5eL3wYbU"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "uj",
+      "autor": "sM",
+      "num_pag": 490788632,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "7GTd",
+      "telefono": "E",
+      "dir_electronica": "eDiD12mhmO"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "vo",
+      "autor": "ft",
+      "num_pag": 1013054318,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "IbkY",
+      "telefono": "n",
+      "dir_electronica": "dN3Ojg4c13"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "vo",
+      "autor": "ft",
+      "num_pag": 1013054318,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "BJst",
+      "telefono": "n",
+      "dir_electronica": "iOAPO97lAM"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "vo",
+      "autor": "ft",
+      "num_pag": 1013054318,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "oiVm",
+      "telefono": "u",
+      "dir_electronica": "hkRuciCQ4q"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Wn",
+      "autor": "jX",
+      "num_pag": 1451994962,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "0Qy3",
+      "telefono": "V",
+      "dir_electronica": "AndFBtqJCL"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Wn",
+      "autor": "jX",
+      "num_pag": 1451994962,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "lAjO",
+      "telefono": "W",
+      "dir_electronica": "lbMEl6zkMO"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Wn",
+      "autor": "jX",
+      "num_pag": 1451994962,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "B2xc",
+      "telefono": "4",
+      "dir_electronica": "BCa4McR2OX"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Wr",
+      "autor": "ca",
+      "num_pag": 1473546014,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "hrNT",
+      "telefono": "g",
+      "dir_electronica": "9GNLoS7VwQ"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Wr",
+      "autor": "ca",
+      "num_pag": 1473546014,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "QvUo",
+      "telefono": "1",
+      "dir_electronica": "KYSbO3ie3W"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Wr",
+      "autor": "ca",
+      "num_pag": 1473546014,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "WXxl",
+      "telefono": "l",
+      "dir_electronica": "KrWLgF0F7w"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Wr",
+      "autor": "ca",
+      "num_pag": 1473546014,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "76ur",
+      "telefono": "t",
+      "dir_electronica": "jolFYCiFA9"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "oG",
+      "autor": "tY",
+      "num_pag": 3769963400,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "eALn",
+      "telefono": "Q",
+      "dir_electronica": "GVksXXw6bN"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "oG",
+      "autor": "tY",
+      "num_pag": 3769963400,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "EvjA",
+      "telefono": "f",
+      "dir_electronica": "Kbb87oynDG"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "oG",
+      "autor": "tY",
+      "num_pag": 3769963400,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "ww9o",
+      "telefono": "D",
+      "dir_electronica": "UGpcuIUQyR"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "yX",
+      "autor": "Zy",
+      "num_pag": 889987872,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "sXEd",
+      "telefono": "j",
+      "dir_electronica": "coEsWJD3Vj"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "yX",
+      "autor": "Zy",
+      "num_pag": 889987872,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "cE8B",
+      "telefono": "1",
+      "dir_electronica": "YPx0Ta7Li9"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "yX",
+      "autor": "Zy",
+      "num_pag": 889987872,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "sSDR",
+      "telefono": "1",
+      "dir_electronica": "Z7NdmpYBb9"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "yX",
+      "autor": "Zy",
+      "num_pag": 889987872,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "XB7K",
+      "telefono": "U",
+      "dir_electronica": "7ebjn4F0dW"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "XV",
+      "autor": "YB",
+      "num_pag": 929765570,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "DqVX",
+      "telefono": "R",
+      "dir_electronica": "K48m6F13JL"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "XV",
+      "autor": "YB",
+      "num_pag": 929765570,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "s6p8",
+      "telefono": "O",
+      "dir_electronica": "IlHTXTVxVL"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "3z",
+      "autor": "aP",
+      "num_pag": 1722589708,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "iA88",
+      "telefono": "Z",
+      "dir_electronica": "GdkmJvXWQl"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "3z",
+      "autor": "aP",
+      "num_pag": 1722589708,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "g9k4",
+      "telefono": "B",
+      "dir_electronica": "9ImWvQt14P"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Op",
+      "autor": "FE",
+      "num_pag": 31659724,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "jy1O",
+      "telefono": "b",
+      "dir_electronica": "BqUMwRIt6v"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Op",
+      "autor": "FE",
+      "num_pag": 31659724,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "sWCu",
+      "telefono": "Y",
+      "dir_electronica": "8bwom8RIfF"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Wu",
+      "autor": "po",
+      "num_pag": 3258874935,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "HOJ9",
+      "telefono": "3",
+      "dir_electronica": "RykIKio5xk"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Wu",
+      "autor": "po",
+      "num_pag": 3258874935,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "E23W",
+      "telefono": "d",
+      "dir_electronica": "1Prta05CFn"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Jo",
+      "autor": "OR",
+      "num_pag": 2498203544,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "D30d",
+      "telefono": "3",
+      "dir_electronica": "LdzhsxODlA"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Jo",
+      "autor": "OR",
+      "num_pag": 2498203544,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "JCQ2",
+      "telefono": "a",
+      "dir_electronica": "R0n6g3JSjt"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "1K",
+      "autor": "91",
+      "num_pag": 1270939489,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "HokW",
+      "telefono": "i",
+      "dir_electronica": "txHfOpGaHq"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "1K",
+      "autor": "91",
+      "num_pag": 1270939489,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "yoIy",
+      "telefono": "E",
+      "dir_electronica": "9jlghkhDxc"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "1K",
+      "autor": "91",
+      "num_pag": 1270939489,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "hxSy",
+      "telefono": "c",
+      "dir_electronica": "gaAKPhi1C1"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "1K",
+      "autor": "91",
+      "num_pag": 1270939489,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "st5r",
+      "telefono": "r",
+      "dir_electronica": "4wtmQlreyZ"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "TY",
+      "autor": "Pt",
+      "num_pag": 2215524172,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "xuj7",
+      "telefono": "x",
+      "dir_electronica": "MIHvNqSAlf"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "TY",
+      "autor": "Pt",
+      "num_pag": 2215524172,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "SsPo",
+      "telefono": "b",
+      "dir_electronica": "BnaJIb8Jff"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "TY",
+      "autor": "Pt",
+      "num_pag": 2215524172,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "iaLz",
+      "telefono": "P",
+      "dir_electronica": "AGrGifFssR"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "TY",
+      "autor": "Pt",
+      "num_pag": 2215524172,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "pTZG",
+      "telefono": "C",
+      "dir_electronica": "x4xx8h6TSG"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "qI",
+      "autor": "1L",
+      "num_pag": 2395958161,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "FPHg",
+      "telefono": "q",
+      "dir_electronica": "UH5YXQ13Tp"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "qI",
+      "autor": "1L",
+      "num_pag": 2395958161,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "XqDu",
+      "telefono": "8",
+      "dir_electronica": "GJUN66x8OH"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "qI",
+      "autor": "1L",
+      "num_pag": 2395958161,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "Kqh3",
+      "telefono": "A",
+      "dir_electronica": "2ahDsXbVKa"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "qI",
+      "autor": "1L",
+      "num_pag": 2395958161,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "aNKz",
+      "telefono": "c",
+      "dir_electronica": "CRObpEvZjz"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "RI",
+      "autor": "EI",
+      "num_pag": 841331644,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "C4mE",
+      "telefono": "f",
+      "dir_electronica": "ajgig823DE"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "RI",
+      "autor": "EI",
+      "num_pag": 841331644,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "zcpd",
+      "telefono": "H",
+      "dir_electronica": "T69hBqT0uk"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "RI",
+      "autor": "EI",
+      "num_pag": 841331644,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "EfWt",
+      "telefono": "A",
+      "dir_electronica": "M8SZVGDLom"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "6N",
+      "autor": "1R",
+      "num_pag": 557468747,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "AZIB",
+      "telefono": "j",
+      "dir_electronica": "MIEgLyWMcW"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "6N",
+      "autor": "1R",
+      "num_pag": 557468747,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "6SND",
+      "telefono": "0",
+      "dir_electronica": "sgj4J4pTaR"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "6N",
+      "autor": "1R",
+      "num_pag": 557468747,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "L6sV",
+      "telefono": "x",
+      "dir_electronica": "Ff5zUaUWCv"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "6w",
+      "autor": "0q",
+      "num_pag": 4208665922,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "zkEr",
+      "telefono": "U",
+      "dir_electronica": "9Abn5fjhMK"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "6w",
+      "autor": "0q",
+      "num_pag": 4208665922,
+      "genero": "Infantil"
+    },
+    "cliente": {
+      "nombre": "TixZ",
+      "telefono": "V",
+      "dir_electronica": "xH27WVA12o"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Y3",
+      "autor": "jL",
+      "num_pag": 4132726144,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "fR8B",
+      "telefono": "m",
+      "dir_electronica": "gp0v1MsID5"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Y3",
+      "autor": "jL",
+      "num_pag": 4132726144,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "Edas",
+      "telefono": "8",
+      "dir_electronica": "hooxBgJGhg"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Y3",
+      "autor": "jL",
+      "num_pag": 4132726144,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "T84e",
+      "telefono": "8",
+      "dir_electronica": "C1BEyA7syC"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "Y3",
+      "autor": "jL",
+      "num_pag": 4132726144,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "6L6l",
+      "telefono": "D",
+      "dir_electronica": "zCUwwqC6ym"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "WR",
+      "autor": "2u",
+      "num_pag": 1379334214,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "Qf8y",
+      "telefono": "v",
+      "dir_electronica": "hXDq95vRrB"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "WR",
+      "autor": "2u",
+      "num_pag": 1379334214,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "ilmh",
+      "telefono": "q",
+      "dir_electronica": "3xuNGpcCQP"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "WR",
+      "autor": "2u",
+      "num_pag": 1379334214,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "2iV5",
+      "telefono": "T",
+      "dir_electronica": "aatw3nSXrt"
+    },
+    "fecha_venc": {
+      "dia": 22,
+      "mes": 2,
+      "anio": 1693529175
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  },
+  {
+    "libro": {
+      "titulo": "harry potter",
+      "autor": "Rowling",
+      "num_pag": 200,
+      "genero": "Novela"
+    },
+    "cliente": {
+      "nombre": "Juan",
+      "telefono": "10",
+      "dir_electronica": "a@.com"
+    },
+    "fecha_venc": {
+      "dia": 14,
+      "mes": 6,
+      "anio": 2023
+    },
+    "fecha_dev": null,
+    "estado": "en préstamo"
+  }
+]

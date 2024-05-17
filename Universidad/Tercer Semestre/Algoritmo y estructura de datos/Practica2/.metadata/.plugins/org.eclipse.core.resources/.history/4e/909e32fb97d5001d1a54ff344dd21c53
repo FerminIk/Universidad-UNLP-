@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author Mar
+ *
+ */
+module Practica3 {
+	arbolBinario<Integer> a = news arbolBinario<Integer>();
+}

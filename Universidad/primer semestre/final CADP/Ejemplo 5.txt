@@ -1,0 +1,23 @@
+Program Ejemplo5;
+var
+  nota, i, suma, prom : integer;
+begin
+  suma := 0;                                  1
+  total := 0;                                     1
+  read(nota);
+
+  while (nota <> -1) do begin         n+1
+
+    total := total + 1;                        2
+    suma := suma + nota;              2
+
+    read(nota);
+
+  end;
+
+  prom := suma / total;                   2
+  writeln('Promedio ', prom:2:2);    
+
+end.
+
+                                                      ((4 * n) + n+1) + 4 = (5n + 5) ut

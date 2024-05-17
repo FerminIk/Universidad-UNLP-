@@ -1,0 +1,2 @@
+El error es que no se puede leer la variable b en el codigo principal, ya que esta 
+variable pertenece a un procedimiento

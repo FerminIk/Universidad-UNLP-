@@ -1,0 +1,36 @@
+```jsx
+org 1000h
+msj db "introduzca un numero: "
+fin  db ?
+adv db "CARACTER NO VALIDO"
+finA db ?
+org 1100h
+num db ?
+org 1200h
+es_num:cmp num, 30H
+js salto
+cmp num,40h
+jns salto
+mov cl,00h
+jmp final
+salto: mov cl,0ffh
+final: ret
+org 2000h
+
+MOV BX, OFFSET msj
+MOV AL, OFFSET fin-OFFSET msj
+int 7
+mov bx, offset num
+int 6
+call es_num
+cmp cl, 00h
+jz numero
+mov bx, offset adv
+mov al, offset finA- offset adv
+int 7
+jmp ending
+numero: mov al, 1
+int 7
+ending: int 0
+end
+```

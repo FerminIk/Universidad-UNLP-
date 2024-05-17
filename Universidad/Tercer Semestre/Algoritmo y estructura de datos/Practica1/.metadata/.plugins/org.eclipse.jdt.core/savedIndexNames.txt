@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+D:\facultad\Tercer Semestre\Algoritmo y estructura de datos\Practica1\.metadata\.plugins\org.eclipse.jdt.core
+3806716246.index
+1865797976.index
+2879105261.index

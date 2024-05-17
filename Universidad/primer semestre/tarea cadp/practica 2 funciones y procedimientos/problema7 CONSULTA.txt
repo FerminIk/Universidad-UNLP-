@@ -1,0 +1,7 @@
+a-faltaria un total a mi gusto, vamos agregando las cantidades de 1 en 1 y usamos el total para calcular el total 
+sumas, asi terminamos el programa con la suma total y las cantidades bien 
+
+b- Se podria hacer con una variable en el programa principal, por ejemplo la llamamos c.Promedio, la inicializamos
+con la funcion antes del if y remplazamos en los lugares donde esta calcularPromedio con c.Promedio
+
+consultar en practica

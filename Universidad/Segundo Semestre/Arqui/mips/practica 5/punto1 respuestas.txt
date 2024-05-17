@@ -1,0 +1,11 @@
+a-b- 16 ciclos - 7 instrucciones -  2.2 cpi - 4  raw - 2 str
+c- Los atascos estructurales  se hacen porque dos instrucciones
+quieren acceder al mismo dispositivo al mismo tiempo, en este caso
+el add.d termina de ejecutar a la vez que s.d termina de ejecutar
+cuando sucede esto, se prioriza la instruccion mas antigua
+d- aparece porque el registro f1 se esta pidiendo escribir
+por  la multiplicacion antes de que sea leido
+e-Yo creo que esto se debe a que como no se  produce RAW en la
+instruccion anterior esto hace que la instruccion  anterior pueda 
+leer correctamente el registro y por  ende ya se pude escribir el
+nuevo valor de f1

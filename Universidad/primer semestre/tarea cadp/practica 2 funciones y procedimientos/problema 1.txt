@@ -1,0 +1,3 @@
+El programa imprimira primero 3 en el proceso, luego 2 y por ultimo 1 (El programa siempre agarra las 
+variables mas cercanas, como en este caso en el procedure)
+

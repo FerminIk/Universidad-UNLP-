@@ -1,0 +1,50 @@
+program Ejercicio5;
+type
+  cadena35 = String[35];
+
+  empleado = record
+    dirCorreo : cadena35;
+    edad : integer;
+    sueldo : real;
+  end;
+
+  punt = ^empleado;
+
+  vector = array[1..500] of punt;
+
+  lista = ^nodo;
+
+  nodo = record
+    dato : empleado;
+    sig : lista;
+  end;
+
+var
+  v : vector;                                                                         500*4
+  l, aux : lista;                                                                      4 + 4
+  emp : empleado;                                                              36 + 6 + 8
+  i : integer;                                                                          6
+begin                                                                                   
+  l := nil;
+
+  for i := 1 to 10 do begin
+
+    read(emp.dirCorreo, emp.edad, emp.sueldo);
+
+    if (emp.edad < 40) and (emp.sueldo < 40000) then
+      emp.sueldo := emp.sueldo + 2000;
+
+    new(aux);                                                                        4 + 50
+    aux^.dato := emp;
+    aux^.sig := l;
+    l := aux;
+
+  end;
+
+end.
+
+                                                                                             Memoria estatica :
+                                                                                             2000 + 8 + 50 + 6 = 2064 bytes
+
+                                                                                             Memoria dinamica :
+                                                                                             (4 + 50) * 10 = 540 bytes

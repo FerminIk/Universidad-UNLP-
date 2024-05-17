@@ -1,0 +1,13 @@
+a-1- El problema de declararla como submodulo, es que solo el codigo del procedimiento leer puede invocarla, asi 
+que este codigo daria error 'ok:=analizarLetra;'
+
+a-2 la solucion es hacer la funcion analizarLetra fuera del procedimiento, asi puede ser invocada en el codigo 
+principal
+
+b-1 No tengo muy claro que valores puede ser, pero yo pienso que son los char con acento los que no estan incluidos
+
+b-2 en caso de ingresarse uno de estos el codigo da error, ya que el booleano analizarLetra queda sin declaracion y
+por ende el codigo da error
+
+b-3 puede solucionarse de muchas maneras, la que pienso que es mas sencilla, es agregar un else mas en el ultimo if
+para que le algun valor a la funcion o fuera de los if antes del end del procedimiento

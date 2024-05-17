@@ -1,0 +1,2 @@
+a- El timer tiene un CL2 (clock interno) de 1HZ este envia cada un segundo una señal al timer , cuando sus registros son iguales, el timer genera una interrupcion en el pic
+b. Sus  registros son, el contador (cont 10h) el  cual cuenta del 0 al 255 cada segundo, y su segundo registro es el comp (comparador 11h) el cual necesita un numero distinto a 0 para commparar con el contador, cuando estos son iguales el timer envia una interrupcion al pic, y debemos reiniciar el cont (si no contaria hasta 255 y volveria a 0, cumpliendo mal su funcion)

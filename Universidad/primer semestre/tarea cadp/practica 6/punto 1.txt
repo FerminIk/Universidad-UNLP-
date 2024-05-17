@@ -1,0 +1,2 @@
+a- el programa llena una lista leyendo enteros hasta leer el valor 0 que no va a procesarce
+b-quedaria 48, 13, 21 ,10

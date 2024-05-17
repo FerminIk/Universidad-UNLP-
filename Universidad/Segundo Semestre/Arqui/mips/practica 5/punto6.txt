@@ -1,0 +1,24 @@
+a- el programa  lo que  hace es cargar los valores 1 y 2 en registros
+de argumentos  para pasarlo a la subrutina, luego dentro de  la sub
+inicializa el registro de retorno de la subrutina en 1,  compara
+el valor del argumento con 0 (Seria como un contador),  si es cero
+termina la ejecucion y vuelve al programa principal, guardando en
+la memoria el resultado. Sino sigue ejecutandose y multiplica el
+registro de retorno con el registro de argumento 0. como este tiene
+un 1 se multiplica 1 * 16
+
+b- jal salta a la direccion apuntada y a su vez guarda la siguiente
+instruccion en $ra
+mientras que jr  salta a la direccion apuntada por un registro, en
+este caso el registro $ra
+
+c-en $ra se guarda la direccion de la siguiente intruccion al salto
+jal
+en $a0-$a1 se guardan los valores de las variables que se desean 
+pasar a la subrutina
+en $v0 se guarda el valor que se desea retornar de la subrutina
+mientras  que los $t# son  simplemente regs  temporales
+
+d-No lo tengo claro, pero podria volver de la primera subrutina 
+la de multiplicacion sin muchos problemas, pero nose si deberia  
+guardar o se  guarda solo la anterior direccion de memoria

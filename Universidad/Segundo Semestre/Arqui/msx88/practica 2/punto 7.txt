@@ -1,0 +1,54 @@
+org 1000h
+msj db "escriba los numeros que desea sumar: "
+fin_msj db ?
+adv db "El caracter introducido no es un numero. ERROR"
+fin_adv db ?
+num db ?
+num2 db ?
+res db 0
+uni db "0"
+
+org 1100h
+es_num:cmp num, 30H
+js salto
+cmp num,40h
+jns salto
+mov cl,00h
+jmp final
+salto: mov cl,0ffh
+final: ret
+
+
+imprimir: mov bx, dx
+mov al,2
+int 7
+
+
+org 2000h
+mov cx,0
+mov dx,0
+mensaje: mov bx, offset msj
+mov al, offset fin_msj - offset msj
+int 7
+escribir: mov bx, offset num
+int 6
+mov bx,offset num2
+int 6
+call es_num
+MOV AL, num2 
+SUB AL, 30H 
+inc cl
+segundo: ADD AL, num 
+CMP AL, 3AH 
+JS NUM_OK
+SUB AL, 10 
+INC res ; 
+NUM_OK: MOV uni, AL 
+MOV BX, OFFSET res 
+MOV AL, 2
+INT 7
+INT 0 
+
+
+end
+No muestra bien  el primer caracter

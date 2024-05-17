@@ -1,0 +1,11 @@
+C:\Users\Mar\Desktop\Rust\facu\src\coverage\debug\deps\cargo_metadata-72369eb1ea1c4268.rmeta: C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.4\src\lib.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.4\src\dependency.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.4\src\diagnostic.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.4\src\errors.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.4\src\messages.rs
+
+C:\Users\Mar\Desktop\Rust\facu\src\coverage\debug\deps\libcargo_metadata-72369eb1ea1c4268.rlib: C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.4\src\lib.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.4\src\dependency.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.4\src\diagnostic.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.4\src\errors.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.4\src\messages.rs
+
+C:\Users\Mar\Desktop\Rust\facu\src\coverage\debug\deps\cargo_metadata-72369eb1ea1c4268.d: C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.4\src\lib.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.4\src\dependency.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.4\src\diagnostic.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.4\src\errors.rs C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.4\src\messages.rs
+
+C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.4\src\lib.rs:
+C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.4\src\dependency.rs:
+C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.4\src\diagnostic.rs:
+C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.4\src\errors.rs:
+C:\Users\Mar\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.4\src\messages.rs:

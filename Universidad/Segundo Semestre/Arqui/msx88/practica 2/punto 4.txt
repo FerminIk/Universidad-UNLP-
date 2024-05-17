@@ -1,0 +1,26 @@
+```jsx
+org 1000h
+msj db "introduzca un numero: "
+fin  db ?
+num db ?
+org 1200h
+org 2000h
+
+MOV BX, OFFSET msj
+MOV AL, OFFSET fin-OFFSET msj
+int 7
+mov bx, offset num
+int 6
+mov al, 1
+int 7
+int 0
+end
+
+a-  en bx se almacena el primer bit del mensaje, y en al se almacena la celda siguiente  al ultimo  caracter del mensaje
+Lo que nose porque se hace tambien un off set mensaje, talvez para  guardar todas las celdas
+Claro, porque se restan
+En Al se muestra la cantidad de caracteres que se desea mostrar
+b- se almacena lo que fue leido por  teclado con la interrupcion 6
+c- lee en la posicion donde esta bx(num) la cantidad de caracteres que se almacena en Al, en este  caso uno
+Y se guarda en Cl. pero antes de guardarse se  imprime en  pantalla el numero introducido
+```

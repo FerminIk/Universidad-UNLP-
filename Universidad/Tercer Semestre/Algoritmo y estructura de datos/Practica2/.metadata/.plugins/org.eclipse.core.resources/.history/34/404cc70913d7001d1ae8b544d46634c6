@@ -1,0 +1,79 @@
+package punto3;
+
+import ejercicio1.ArbolBinario;
+import practica2.ListaEnlazadaGenerica;
+import java.util.Scanner;
+
+public class ContadorArbol<Integer> {
+	private ArbolBinario<Integer> raiz;
+
+	public ContadorArbol(ArbolBinario<Integer> raiz) {
+		super();
+		this.raiz = raiz;
+	}
+
+	public ContadorArbol() {
+		super();
+	}
+
+	public ArbolBinario<Integer> getRaiz() {
+		return raiz;
+	}
+
+	public void setRaiz(ArbolBinario<Integer> raiz) {
+		this.raiz = raiz;
+	}
+	
+	private boolean comprobar(Integer dato) {
+		int aux = dato;
+		if (aux % 2) {
+			return true;
+		} else  {
+			return false;
+		}
+		
+	}
+	
+	private ListaEnlazadaGenerica<Integer> InOrden(ArbolBinario<Integer> a, ListaEnlazadaGenerica<Integer> aux) {
+		if (!a.esVacio()) {
+			Integer dato =a.getDato();
+			if (comprobar(dato)) {
+				
+			}
+			if (a.tieneHijoIzquierdo()) {
+				
+			}
+			if (a.tieneHijoDerecho()) {
+				
+			}
+			
+		}
+		return aux;
+	}
+	
+	private ListaEnlazadaGenerica<Integer> PreOrden(ArbolBinario a, ListaEnlazadaGenerica aux) {
+		
+		return null;
+	}
+	
+	public ListaEnlazadaGenerica<Integer> numerosPares(ArbolBinario a) {
+		ListaEnlazadaGenerica<Integer> aux = null;
+		System.out.println("1. se ejecuta el metodo en InOrden");
+		System.out.println("2. se ejecuta el metodo en PreOrden");
+		Scanner s = new Scanner(System.in);
+		int num = s.nextInt();
+		if (a.esVacio()) {
+			return null;
+		}else {
+			while (true) {
+				if (num == 1) {
+					return InOrden(raiz,aux);
+				} else if (num == 2) {
+					return PreOrden(raiz,aux);
+				}
+				System.out.println("numero no valido, por favor introducelo nuevamente");
+				num = s.nextInt();
+			}
+		}
+	}
+}

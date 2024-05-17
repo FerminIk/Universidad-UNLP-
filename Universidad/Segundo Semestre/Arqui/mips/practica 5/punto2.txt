@@ -1,0 +1,34 @@
+mtc1 r, f (Copia los 64 bits del registro entero rf al 
+registro fd de punto flotante)
+
+mfc1 r, f (Copia los 64 bits del registro ff de punto 
+flotante al registro rd entero)
+
+
+cvt.d.l f, f (Convierte a punto flotante el valor 
+entero copiado al registro ff, dejándolo en fd)
+
+cvt.l.d f, f (Convierte a entero el valor en punto
+ flotante contenido en ff, dejándolo en fd )
+
+
+
+Para copiar el valor que tengo en un registro entero (r0 a r31) a uno de
+punto flotante (f0 a f31):
+• Copiar los 64 bits del registro entero rf al registro fd de punto
+flotante
+o mtc1 rf, fd
+• Conviertir a punto flotante el valor entero copiado al registro ff,
+dejándolo en fd
+o cvt.d.l fd, ff
+Importante: los números muy grandes serán redondeados en su mejor
+representación de punto flotante.
+Para copiar el valor que tengo en un registro de punto flotante (f0 a
+f31) a un registro entero (r1 a r31):
+• Conviertir a entero el valor en punto flotante contenido en ff,
+dejándolo en fd
+o cvt.l.d fd, ff
+• Copiar los 64 bits del registro ff de punto flotante al registro rd
+entero
+o mfc1 rd, ff
+Importante: El número se trunca, no se redondea.

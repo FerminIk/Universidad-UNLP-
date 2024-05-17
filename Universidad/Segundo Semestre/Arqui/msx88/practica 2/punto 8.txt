@@ -1,0 +1,84 @@
+```jsx
+org 1000h
+msj1 db "introduzca el numero: "
+fin1 db ?
+msj2 db " introduzca el segundo numero: "
+fin2 db ?
+num1 db ?
+num2 db ?
+res db ?
+error db "caracter no es numero"
+finE db ?
+
+org 1200h
+err: mov bx, offset error
+mov al, offset finE - offset error
+int 7
+int 0
+
+es_num: cmp num1, 30h
+js no_es
+cmp num1, 40h
+jns no_es
+mov cl,01h
+jmp fin
+no_es: mov cl, 00h
+fin: ret
+
+es_num2: cmp num2, 30h
+js no_es2
+cmp num2, 40h
+jns no_es2
+mov cl,01h
+jmp finEs2
+no_es2: mov cl, 00h
+finEs2: ret
+
+org 2000h
+mov bx, offset msj1
+mov al, offset fin1 -offset msj1
+int 7
+mov bx, offset num1
+int 6
+call es_num
+cmp cl, 00h
+jnz sigue
+call err
+sigue: mov al,1
+int 7
+mov bx, offset msj2
+mov al, offset fin2-offset msj2
+int 7
+mov bx,offset num2
+int 6
+call es_num2
+cmp cl, 00h
+jnz sigue2
+call err
+sigue2: mov al,1
+int 7
+mov cl,0
+mov cl, num1
+sub cl, num2
+mov cl, ch
+and cl, 10000000b
+jnz nega 
+add cl,30h
+mov al, cl
+mov ah, 2bh
+jmp normal
+nega: mov al,255
+sub al,  cl
+inc al
+mov cl, al
+add cl, 30h
+mov ch, 2dh
+normal: mov  res, ah
+mov res+1,al
+mov bx, offset res
+mov al, 2
+int 7
+int 0
+hlt
+end
+```
